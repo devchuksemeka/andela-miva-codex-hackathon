@@ -1,0 +1,138 @@
+[
+  {
+    "id": "clip-sequencing",
+    "name": "Sequence and trim video clips",
+    "areas": [
+      "Video editing",
+      "Content creation",
+      "Event media"
+    ],
+    "task": "Using a tool you know, trim and arrange three clips into a 30-second sequence. Export and review the result."
+  },
+  {
+    "id": "video-captioning",
+    "name": "Caption spoken video",
+    "areas": [
+      "Video editing",
+      "Accessibility",
+      "Social media"
+    ],
+    "task": "Caption a 30-second clip in Premiere Pro. Correct the transcript and verify that every caption is readable and timed correctly."
+  },
+  {
+    "id": "facebook-publishing",
+    "name": "Publish content on a Facebook Page",
+    "areas": [
+      "Social media management",
+      "Content distribution",
+      "Event marketing"
+    ],
+    "task": "Prepare and preview a Facebook Page video post with a caption and appropriate audience. Use a test Page or save a draft if you lack publishing permission."
+  },
+  {
+    "id": "facebook-analytics",
+    "name": "Interpret Facebook Page analytics",
+    "areas": [
+      "Social media management",
+      "Reporting",
+      "Event marketing"
+    ],
+    "task": "Using Page Insights you have permission to access, compare two posts and write three observations and one next step. Do not share private audience data."
+  },
+  {
+    "id": "facebook-ad-planning",
+    "name": "Plan a Facebook ad campaign",
+    "areas": [
+      "Social media management",
+      "Paid marketing",
+      "Event marketing"
+    ],
+    "task": "Create a draft Facebook ad brief with objective, audience, creative and budget limit. Do not publish or spend money."
+  },
+  {
+    "id": "instagram-publishing",
+    "name": "Prepare Instagram Reels",
+    "areas": [
+      "Social media management",
+      "Content distribution"
+    ],
+    "task": "Prepare a Reel draft and caption for Instagram. Review the preview without publishing."
+  },
+  {
+    "id": "flyer-layout",
+    "name": "Lay out a readable flyer",
+    "areas": [
+      "Graphic design",
+      "Event marketing",
+      "Content creation"
+    ],
+    "task": "Create an event flyer in Canva with readable details and export it for mobile viewing."
+  },
+  {
+    "id": "event-scheduling",
+    "name": "Build an event run sheet",
+    "areas": [
+      "Event coordination",
+      "Project coordination",
+      "Event media"
+    ],
+    "task": "Create a run sheet for a small event with times, owners and three backup plans."
+  },
+  {
+    "id": "semantic-html",
+    "name": "Structure semantic HTML",
+    "areas": [
+      "Web design",
+      "Accessibility"
+    ],
+    "task": "Create a semantic HTML page with a heading, introduction and contact section. Check heading order and link names."
+  },
+  {
+    "id": "responsive-layout",
+    "name": "Build responsive CSS layouts",
+    "areas": [
+      "Web design",
+      "Interface design"
+    ],
+    "task": "Style a page with CSS. Verify readable text and no horizontal overflow at 375px and 1024px widths."
+  },
+  {
+    "id": "instructional-writing",
+    "name": "Write step-by-step technical instructions",
+    "areas": [
+      "Technical communication",
+      "Customer onboarding",
+      "Teaching"
+    ],
+    "task": "Write a short onboarding guide for a technical task. State the audience, prerequisites, numbered steps and how to verify success. Test it with a colleague."
+  },
+  {
+    "id": "audience-explanation",
+    "name": "Explain technical concepts for an audience",
+    "areas": [
+      "Technical communication",
+      "Customer onboarding",
+      "Teaching"
+    ],
+    "task": "Write a short onboarding guide for a technical task. State the audience, prerequisites, numbered steps and how to verify success. Test it with a colleague."
+  },
+  {
+    "id": "programming-demonstration",
+    "name": "Demonstrate and explain working code",
+    "areas": [
+      "Software development",
+      "Teaching",
+      "Technical communication"
+    ],
+    "task": "Choose a short program you understand. Explain its input, logic and output. Show a common error and how to debug it, then give the learner a small modification to try."
+  },
+  {
+    "id": "learner-guidance",
+    "name": "Guide a learner with feedback",
+    "areas": [
+      "Teaching",
+      "Team guidance"
+    ],
+    "task": "Guide a colleague through a small coding problem. Ask questions before supplying answers, give specific feedback and check that they can solve a similar problem independently."
+  }
+]

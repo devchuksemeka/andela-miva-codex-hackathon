@@ -1,0 +1,58 @@
+{
+  "clip-sequencing": {
+    "name": "Arrange and trim video clips",
+    "task": "Use tool wey you sabi trim and arrange three clips into 30-second video. Export am and check result."
+  },
+  "video-captioning": {
+    "name": "Add captions to spoken video",
+    "task": "Add captions to 30-second clip for Premiere Pro. Correct transcript; confirm every caption clear to read and timing correct."
+  },
+  "facebook-publishing": {
+    "name": "Publish content for Facebook Page",
+    "task": "Prepare Facebook Page video post with caption and suitable audience; check preview. Use test Page or save draft if you no get permission to publish."
+  },
+  "facebook-analytics": {
+    "name": "Understand Facebook Page numbers",
+    "task": "Use Page Insights wey you get permission to access compare two posts. Write three observations and one next step. No share private audience data."
+  },
+  "facebook-ad-planning": {
+    "name": "Plan Facebook ad campaign",
+    "task": "Create draft Facebook ad brief with objective, audience, creative and spending limit. No publish or spend money."
+  },
+  "instagram-publishing": {
+    "name": "Prepare Instagram Reels",
+    "task": "Prepare Reel draft and caption for Instagram. Check preview without publishing."
+  },
+  "flyer-layout": {
+    "name": "Arrange flyer wey easy to read",
+    "task": "Create event flyer for Canva with clear details; export am for phone viewing."
+  },
+  "event-scheduling": {
+    "name": "Build event run sheet",
+    "task": "Create run sheet for small event with times, people responsible and three backup plans."
+  },
+  "semantic-html": {
+    "name": "Build semantic HTML structure",
+    "task": "Create semantic HTML page with heading, introduction and contact section. Check heading order and link names."
+  },
+  "responsive-layout": {
+    "name": "Build CSS layout wey adapt",
+    "task": "Style page with CSS. Confirm text clear and horizontal overflow no dey at 375px and 1024px widths."
+  },
+  "instructional-writing": {
+    "name": "Write technical instructions step by step",
+    "task": "Write short onboarding guide for technical task. State who go use am, wetin dem need first, numbered steps and how to confirm success. Test am with colleague."
+  },
+  "audience-explanation": {
+    "name": "Explain technical ideas for your audience",
+    "task": "Write short onboarding guide for technical task. State who go use am, wetin dem need first, numbered steps and how to confirm success. Test am with colleague."
+  },
+  "programming-demonstration": {
+    "name": "Show and explain code wey work",
+    "task": "Choose short program wey you understand. Explain input, logic and output. Show common error and how to debug am, then give learner small change to try."
+  },
+  "learner-guidance": {
+    "name": "Guide learner with useful feedback",
+    "task": "Guide colleague through small coding problem. Ask questions before giving answers, give specific feedback, then check say dem fit solve similar problem by demself."
+  }
+}

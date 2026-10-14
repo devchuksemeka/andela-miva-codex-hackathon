@@ -1,0 +1,791 @@
+[
+  {
+    "id": "capcut-trim",
+    "name": "Clip editing with CapCut",
+    "description": "Practise a neighbourhood puff-puff seller preparing a short WhatsApp-friendly product video. Build a 25–35 second vertical product sequence and an editable CapCut project.",
+    "category": "Creative",
+    "icon": "Clapperboard",
+    "color": "sage",
+    "source_url": "https://www.capcut.com/tools/online-video-trimmer",
+    "first_step": "Start with a brief for a neighbourhood puff-puff seller preparing a short WhatsApp-friendly product video. Gather these sample inputs: three self-recorded clips: mixing batter (12 seconds), frying (18 seconds), and packing an order (14 seconds); the fictional shop name is Bisi Bites.",
+    "task": "Create a 25–35 second vertical product sequence and an editable CapCut project for a neighbourhood puff-puff seller preparing a short WhatsApp-friendly product video. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: The three selected actions explain preparation, cooking and delivery; consent and orientation are recorded. There are no black gaps, duplicated actions or abrupt cuts through useful movement. The exported file opens on a phone, keeps food in frame and communicates the offer without explanation. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "capcut-trim-1",
+        "title": "Plan a product story from three clips",
+        "body": "Prerequisites: a device that runs your available CapCut version, permission-cleared footage and export storage. Some features or account options may require payment or connectivity; manual editing is sufficient for this practice. \n\nYour practice brief is a neighbourhood puff-puff seller preparing a short WhatsApp-friendly product video. The goal is a 25–35 second vertical product sequence and an editable CapCut project. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: three self-recorded clips: mixing batter (12 seconds), frying (18 seconds), and packing an order (14 seconds); the fictional shop name is Bisi Bites. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Watch each source clip once before touching the timeline. Write the usable action and unwanted material beside its filename. Select a clear mixing moment, one frying action and a finished pack. In CapCut, create a project and import only these copies. Arrange the clips so preparation leads naturally to the product. Decide whether the shop wants a vertical phone video before cropping. Keep hands and food inside the frame; do not crop out the action that explains what is happening.\n\nReview checklist: The three selected actions explain preparation, cooking and delivery; consent and orientation are recorded. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Starting with the least useful clip because it was recorded first.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.capcut.com/tools/online-video-trimmer",
+        "minutes": 20
+      },
+      {
+        "id": "capcut-trim-2",
+        "title": "Trim and sequence a CapCut timeline",
+        "body": "Continue the same brief: a neighbourhood puff-puff seller preparing a short WhatsApp-friendly product video. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: three self-recorded clips: mixing batter (12 seconds), frying (18 seconds), and packing an order (14 seconds); the fictional shop name is Bisi Bites. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: On the CapCut timeline, drag a clip edge to remove waiting at the start and end. Split around a shaky section and remove only the unusable piece. Close accidental gaps and play across every join. Keep the frying sequence long enough for viewers to understand it, but shorten repeated stirring. Add a simple Bisi Bites end label using text, away from important food details. Keep original sound if it is useful; avoid unlicensed songs. Save a duplicate before experimenting with transitions.\n\nReview checklist: There are no black gaps, duplicated actions or abrupt cuts through useful movement. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Applying transitions to hide weak storytelling or leaving several seconds of waiting.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.capcut.com/tools/online-video-trimmer",
+        "minutes": 35
+      },
+      {
+        "id": "capcut-trim-3",
+        "title": "Export and review a customer-ready edit",
+        "body": "You are preparing the handoff for a neighbourhood puff-puff seller preparing a short WhatsApp-friendly product video. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: three self-recorded clips: mixing batter (12 seconds), frying (18 seconds), and packing an order (14 seconds); the fictional shop name is Bisi Bites. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Export a review copy using a video size your device can play comfortably. Watch the actual exported file rather than assuming the timeline preview is correct. Check the opening frame, every cut and the final shop label. Ask a friend to describe the product after one viewing. If they cannot identify what is being sold, adjust the clip order rather than adding effects. Re-export with a clear filename such as bisi-bites-review-02 and retain the project for revisions.\n\nReview checklist: The exported file opens on a phone, keeps food in frame and communicates the offer without explanation. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Sending only a project file to someone who cannot open CapCut.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.capcut.com/tools/online-video-trimmer",
+        "minutes": 25
+      }
+    ],
+    "tool": "CapCut",
+    "areas": [
+      "Video editing",
+      "Content creation",
+      "Event media"
+    ],
+    "outcomes": [
+      "clip-sequencing"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "premiere-trim",
+    "name": "Clip editing with Premiere Pro",
+    "description": "Practise a campus repair technician showing how a laptop fan is cleaned. Build a 30–45 second repair-process edit, a Premiere project and an export note.",
+    "category": "Creative",
+    "icon": "Clapperboard",
+    "color": "sage",
+    "source_url": "https://helpx.adobe.com/premiere/desktop/edit-projects/trim-clips/trim-a-clip.html",
+    "first_step": "Start with a brief for a campus repair technician showing how a laptop fan is cleaned. Gather these sample inputs: wide workbench footage, a close-up of the unplugged laptop and a final clean fan shot; use a fictional repair service called FixPoint.",
+    "task": "Create a 30–45 second repair-process edit, a Premiere project and an export note for a campus repair technician showing how a laptop fan is cleaned. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: Source files have stable locations and the selected shots make the repair sequence understandable. The unplugged setup precedes cleaning and useful movement survives each trim. The export plays independently and the handoff explains where the editable source media lives. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "premiere-trim-1",
+        "title": "Organize repair footage in Premiere",
+        "body": "Prerequisites: a computer that runs Premiere Pro, an installed version and lawful licence or trial access; the app is not supplied here. Check current device requirements and pricing before committing. \n\nYour practice brief is a campus repair technician showing how a laptop fan is cleaned. The goal is a 30–45 second repair-process edit, a Premiere project and an export note. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: wide workbench footage, a close-up of the unplugged laptop and a final clean fan shot; use a fictional repair service called FixPoint. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Create separate folders for source video, project files and exports. Copy the three shots before importing them into Premiere Pro so the project has stable media paths. Inspect the source clips and note useful In and Out moments. Create a sequence that suits the intended viewing format and source footage. Put the wide shot first to establish the workbench, then plan the close-up and finished result. Use descriptive clip names so a future editor can identify each shot without replaying everything.\n\nReview checklist: Source files have stable locations and the selected shots make the repair sequence understandable. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Moving source folders after importing and creating offline media.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://helpx.adobe.com/premiere/desktop/edit-projects/trim-clips/trim-a-clip.html",
+        "minutes": 20
+      },
+      {
+        "id": "premiere-trim-2",
+        "title": "Build a clear process sequence",
+        "body": "Continue the same brief: a campus repair technician showing how a laptop fan is cleaned. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: wide workbench footage, a close-up of the unplugged laptop and a final clean fan shot; use a fictional repair service called FixPoint. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Place selected portions into the timeline using the source preview or trim the clip boundaries directly. Keep the unplugged state visible before the cleaning close-up. Remove repeated tool movements and close gaps without deleting a necessary step. Play the sequence from the beginning and listen for abrupt audio changes. If source sound is distracting, adjust its level rather than covering everything with loud music. Add a short FixPoint label and an instruction that this is a process example, not a complete repair safety guide.\n\nReview checklist: The unplugged setup precedes cleaning and useful movement survives each trim. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Cutting away context so the edit suggests an unsafe or misleading procedure.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://helpx.adobe.com/premiere/desktop/edit-projects/trim-clips/trim-a-clip.html",
+        "minutes": 35
+      },
+      {
+        "id": "premiere-trim-3",
+        "title": "Deliver and inspect the Premiere export",
+        "body": "You are preparing the handoff for a campus repair technician showing how a laptop fan is cleaned. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: wide workbench footage, a close-up of the unplugged laptop and a final clean fan shot; use a fictional repair service called FixPoint. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Choose an export format suitable for ordinary video playback and inspect the output location before exporting. Open the resulting file independently of Premiere. Look for missing-media warnings, unexpected black frames, distorted proportions and clipped audio. Write down the filename, dimensions and duration for the client handoff. Reopen the project once to confirm the linked sources remain available. Package the project with an agreed media arrangement rather than assuming a project file contains every source clip.\n\nReview checklist: The export plays independently and the handoff explains where the editable source media lives. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Treating a preview render as the final client export.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://helpx.adobe.com/premiere/desktop/edit-projects/trim-clips/trim-a-clip.html",
+        "minutes": 25
+      }
+    ],
+    "tool": "Premiere Pro",
+    "areas": [
+      "Video editing",
+      "Content creation",
+      "Event media"
+    ],
+    "outcomes": [
+      "clip-sequencing"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "capcut-captions",
+    "name": "Video captioning with CapCut",
+    "description": "Practise a food vendor recording pickup instructions in a noisy courtyard. Build a captioned instruction video plus a corrected transcript.",
+    "category": "Creative",
+    "icon": "Clapperboard",
+    "color": "sage",
+    "source_url": "https://www.capcut.com/resource/how-to-add-subtitle-in-capcut",
+    "first_step": "Start with a brief for a food vendor recording pickup instructions in a noisy courtyard. Gather these sample inputs: a 20–30 second recording saying: “Collect your order at Gate Two by four thirty. Ask for Amina. Please bring your order number.”.",
+    "task": "Create a captioned instruction video plus a corrected transcript for a food vendor recording pickup instructions in a noisy courtyard. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: The transcript preserves the gate, person, pickup time and order-number instruction. Every caption begins near the matching speech and has readable contrast. A viewer can recover all pickup instructions while the video is muted. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "capcut-captions-1",
+        "title": "Prepare speech and a verified transcript",
+        "body": "Prerequisites: a device that runs your available CapCut version, permission-cleared footage and export storage. Some features or account options may require payment or connectivity; manual editing is sufficient for this practice. \n\nYour practice brief is a food vendor recording pickup instructions in a noisy courtyard. The goal is a captioned instruction video plus a corrected transcript. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: a 20–30 second recording saying: “Collect your order at Gate Two by four thirty. Ask for Amina. Please bring your order number.”. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Record the sample message in your own voice, or ask a consenting adult to record it. Listen with headphones and type the exact words before using any automatic caption feature. Mark Gate Two, four thirty and Amina as details that cannot be guessed. Import the recording into CapCut and keep a backup. If courtyard noise makes a phrase unclear, record that phrase again rather than inventing words. Decide how to represent the spoken time consistently, such as 4:30, while preserving the meaning.\n\nReview checklist: The transcript preserves the gate, person, pickup time and order-number instruction. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Accepting an automatic transcript that changes a name or time.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.capcut.com/resource/how-to-add-subtitle-in-capcut",
+        "minutes": 20
+      },
+      {
+        "id": "capcut-captions-2",
+        "title": "Correct CapCut captions and timing",
+        "body": "Continue the same brief: a food vendor recording pickup instructions in a noisy courtyard. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: a 20–30 second recording saying: “Collect your order at Gate Two by four thirty. Ask for Amina. Please bring your order number.”. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Use the caption or subtitle workflow available in your CapCut version. Automatic transcription can provide a draft if available, but manual text captions also work. Compare every segment to your verified transcript. Correct names, punctuation and the collection time. Split long text into readable phrases and adjust each segment to the speech. Place captions against a background that keeps letters visible without covering the speaker’s mouth or the pickup sign. Avoid rapid word animations that make essential instructions difficult to follow.\n\nReview checklist: Every caption begins near the matching speech and has readable contrast. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Showing an entire paragraph as a single tiny caption.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.capcut.com/resource/how-to-add-subtitle-in-capcut",
+        "minutes": 35
+      },
+      {
+        "id": "capcut-captions-3",
+        "title": "Check captions without sound",
+        "body": "You are preparing the handoff for a food vendor recording pickup instructions in a noisy courtyard. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: a 20–30 second recording saying: “Collect your order at Gate Two by four thirty. Ask for Amina. Please bring your order number.”. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Export the video and watch it once with sound and once muted. Pause on the pickup time to confirm it stays on screen long enough to read. Ask another person to write the gate, time and required item using captions alone. Compare their answer to the original script. Correct any ambiguity, then save the transcript beside the final video. If you share a screenshot as evidence, use fictional order details and exclude customers’ names or numbers.\n\nReview checklist: A viewer can recover all pickup instructions while the video is muted. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Assuming captions are correct because the speaker can still be heard.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.capcut.com/resource/how-to-add-subtitle-in-capcut",
+        "minutes": 25
+      }
+    ],
+    "tool": "CapCut",
+    "areas": [
+      "Video editing",
+      "Accessibility",
+      "Social media"
+    ],
+    "outcomes": [
+      "video-captioning"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "premiere-captions",
+    "name": "Video captioning with Premiere Pro",
+    "description": "Practise a community volunteer presenting directions to a free reading club. Build a captioned Premiere export and a reviewed subtitle transcript.",
+    "category": "Creative",
+    "icon": "Clapperboard",
+    "color": "sage",
+    "source_url": "https://helpx.adobe.com/premiere/desktop/add-text-images/insert-captions/about-captions.html",
+    "first_step": "Start with a brief for a community volunteer presenting directions to a free reading club. Gather these sample inputs: a self-recorded 30-second message: “The reading club meets beside the library on Saturday at ten. Bring one book. New readers are welcome.”.",
+    "task": "Create a captioned Premiere export and a reviewed subtitle transcript for a community volunteer presenting directions to a free reading club. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: The reference transcript covers when, where, what to bring and who can attend. Caption segments follow speech and remain readable against changing pictures. The final caption finishes before the video ends and the organizer understands the supplied files. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "premiere-captions-1",
+        "title": "Prepare a reading-club caption brief",
+        "body": "Prerequisites: a computer that runs Premiere Pro, an installed version and lawful licence or trial access; the app is not supplied here. Check current device requirements and pricing before committing. \n\nYour practice brief is a community volunteer presenting directions to a free reading club. The goal is a captioned Premiere export and a reviewed subtitle transcript. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: a self-recorded 30-second message: “The reading club meets beside the library on Saturday at ten. Bring one book. New readers are welcome.”. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Create a short spoken recording using the sample invitation and import it into Premiere Pro. Write a reference transcript independently of automatic recognition. Identify the date wording, time, location and inclusive invitation as essential information. Check that the recording does not reveal children’s identities or private contact details. Use a sequence that matches your delivery format. Open the caption or transcription tools documented for your installed version; the exact panel arrangement can vary between releases.\n\nReview checklist: The reference transcript covers when, where, what to bring and who can attend. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Treating a generated transcript as an approved subtitle track.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://helpx.adobe.com/premiere/desktop/add-text-images/insert-captions/about-captions.html",
+        "minutes": 20
+      },
+      {
+        "id": "premiere-captions-2",
+        "title": "Edit a Premiere caption track",
+        "body": "Continue the same brief: a community volunteer presenting directions to a free reading club. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: a self-recorded 30-second message: “The reading club meets beside the library on Saturday at ten. Bring one book. New readers are welcome.”. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Generate a transcript when supported or create caption segments manually. Review the transcript against the recording before placing captions on the timeline. Change incorrect words and break the invitation at natural phrase boundaries. Adjust segment timing so “Saturday at ten” appears with the matching speech rather than a later shot. Use consistent caption styling and enough separation from the background. Leave room for platform interface elements near the edges. Keep captions as editable segments while revising rather than repeatedly baking new text over old exports.\n\nReview checklist: Caption segments follow speech and remain readable against changing pictures. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Using attractive type that becomes illegible on a phone.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://helpx.adobe.com/premiere/desktop/add-text-images/insert-captions/about-captions.html",
+        "minutes": 35
+      },
+      {
+        "id": "premiere-captions-3",
+        "title": "Review accessible subtitle delivery",
+        "body": "You are preparing the handoff for a community volunteer presenting directions to a free reading club. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: a self-recorded 30-second message: “The reading club meets beside the library on Saturday at ten. Bring one book. New readers are welcome.”. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Export a version with visible captions for straightforward review. If your brief also needs a separate subtitle file and the installed workflow supports it, provide that as an additional deliverable and test it with the intended player. Read the whole invitation without audio and verify all required details. Check that the last caption is not cut off at the end of the video. Save the project, final video and transcript with related filenames and explain which file the organizer should publish.\n\nReview checklist: The final caption finishes before the video ends and the organizer understands the supplied files. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Delivering a subtitle file without explaining that the video may need it attached.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://helpx.adobe.com/premiere/desktop/add-text-images/insert-captions/about-captions.html",
+        "minutes": 25
+      }
+    ],
+    "tool": "Premiere Pro",
+    "areas": [
+      "Video editing",
+      "Accessibility",
+      "Social media"
+    ],
+    "outcomes": [
+      "video-captioning"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "facebook-publish",
+    "name": "Publish a video on a Facebook Page",
+    "description": "Practise a neighbourhood laundry business announcing a new collection day on its Facebook Page. Build an approved Facebook Page video draft, caption and publishing checklist.",
+    "category": "Digital",
+    "icon": "Megaphone",
+    "color": "peach",
+    "source_url": "https://www.facebookblueprint.com/student/collection/238354/path/206442",
+    "first_step": "Start with a brief for a neighbourhood laundry business announcing a new collection day on its Facebook Page. Gather these sample inputs: a fictional FreshFold Page, a 15-second collection-bag video, “Saturday pickup, 9 am–noon, Riverside estate; message the Page to arrange collection”.",
+    "task": "Create an approved Facebook Page video draft, caption and publishing checklist for a neighbourhood laundry business announcing a new collection day on its Facebook Page. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: The business has confirmed hours and service area; no customer address appears. The draft uses the intended Page and contains one clear enquiry action. Approval status and responsibility for incoming messages are recorded. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "facebook-publish-1",
+        "title": "Turn a laundry offer into a Page post",
+        "body": "Prerequisites: internet access and appropriate account permissions for real platform work. Without access, use the fictional inputs and a clearly labelled mockup. No posting, customer data access or ad spend is required. \n\nYour practice brief is a neighbourhood laundry business announcing a new collection day on its Facebook Page. The goal is an approved Facebook Page video draft, caption and publishing checklist. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: a fictional FreshFold Page, a 15-second collection-bag video, “Saturday pickup, 9 am–noon, Riverside estate; message the Page to arrange collection”. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Write the customer question first: when can I arrange laundry collection? Copy the sample service area and hours into a brief and ask the business owner to confirm them. Choose a video showing a bag and collection label without exposing customer addresses. Confirm that you have Page access before attempting to post. Without access, prepare the caption and a mock preview on your device instead. A personal profile post is not the same as a business Page deliverable.\n\nReview checklist: The business has confirmed hours and service area; no customer address appears. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Posting from a personal profile while claiming Page management.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.facebookblueprint.com/student/collection/238354/path/206442",
+        "minutes": 20
+      },
+      {
+        "id": "facebook-publish-2",
+        "title": "Prepare the Facebook video draft",
+        "body": "Continue the same brief: a neighbourhood laundry business announcing a new collection day on its Facebook Page. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: a fictional FreshFold Page, a 15-second collection-bag video, “Saturday pickup, 9 am–noon, Riverside estate; message the Page to arrange collection”. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Open the posting workflow available for the authorized Page, using Facebook or Meta Business Suite as appropriate to your access. Attach the sample video and write a caption that leads with Saturday pickup, then gives the hours, service area and one action: message the Page. Add readable on-video wording if needed and check the preview. Avoid unrelated hashtags or promises such as guaranteed stain removal. Save as a draft where available; otherwise capture a mock preview for approval without publishing.\n\nReview checklist: The draft uses the intended Page and contains one clear enquiry action. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Publishing a changed pickup time without owner approval.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.facebookblueprint.com/student/collection/238354/path/206442",
+        "minutes": 35
+      },
+      {
+        "id": "facebook-publish-3",
+        "title": "Check approval and publish responsibly",
+        "body": "You are preparing the handoff for a neighbourhood laundry business announcing a new collection day on its Facebook Page. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: a fictional FreshFold Page, a 15-second collection-bag video, “Saturday pickup, 9 am–noon, Riverside estate; message the Page to arrange collection”. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Ask a reviewer to find the collection window and contact action in five seconds. Correct any mismatch between the caption and video. Check the selected Page identity, permissions and intended visibility before publishing an approved real post. For this practice, a draft is sufficient. Prepare a response template for someone outside the service area and explain who handles messages. Save the approved copy and note whether the evidence is a mockup, draft or published post. Never present a mockup as actual Page performance.\n\nReview checklist: Approval status and responsibility for incoming messages are recorded. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Promising replies or service coverage the business cannot provide.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.facebookblueprint.com/student/collection/238354/path/206442",
+        "minutes": 25
+      }
+    ],
+    "tool": "Facebook",
+    "areas": [
+      "Social media management",
+      "Content distribution",
+      "Event marketing"
+    ],
+    "outcomes": [
+      "facebook-publishing"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "facebook-analytics",
+    "name": "Read Facebook Page analytics",
+    "description": "Practise a tailoring shop deciding whether to make more fitting-tip videos or product photos. Build a one-page Facebook performance comparison with calculations and one cautious recommendation.",
+    "category": "Digital",
+    "icon": "Megaphone",
+    "color": "peach",
+    "source_url": "https://www.facebookblueprint.com/student/activity/185995-measure-your-promotion-s-success",
+    "first_step": "Start with a brief for a tailoring shop deciding whether to make more fitting-tip videos or product photos. Gather these sample inputs: fictional seven-day totals: fitting-tip video reach 1,000 and 50 interactions; product photo reach 400 and 32 interactions; each post has been live for seven days.",
+    "task": "Create a one-page Facebook performance comparison with calculations and one cautious recommendation for a tailoring shop deciding whether to make more fitting-tip videos or product photos. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: Both rows use the same observation window and clearly defined metrics. The 5% and 8% calculations have visible denominators and do not imply sales. The recommendation specifies a repeatable comparison and acknowledges limited evidence. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "facebook-analytics-1",
+        "title": "Choose comparable Facebook measurements",
+        "body": "Prerequisites: internet access and appropriate account permissions for real platform work. Without access, use the fictional inputs and a clearly labelled mockup. No posting, customer data access or ad spend is required. \n\nYour practice brief is a tailoring shop deciding whether to make more fitting-tip videos or product photos. The goal is a one-page Facebook performance comparison with calculations and one cautious recommendation. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: fictional seven-day totals: fitting-tip video reach 1,000 and 50 interactions; product photo reach 400 and 32 interactions; each post has been live for seven days. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Write the decision the tailor needs to make before looking at numbers. Use the fictional figures unless you have permission to inspect a real Page. If using real Insights, record the metric labels, date range and time each post has been live. Keep reach, views and interactions separate; they do not represent the same behavior. Create a small table with one row per post and columns for format, observation window, reach and interactions. Remove personal audience details from screenshots or exports.\n\nReview checklist: Both rows use the same observation window and clearly defined metrics. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Comparing yesterday’s post with one that has accumulated a month of results.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.\n\nReference note: this official introduction is older; current interface details and available metrics need checking in your account.",
+        "source_url": "https://www.facebookblueprint.com/student/activity/185995-measure-your-promotion-s-success",
+        "minutes": 20
+      },
+      {
+        "id": "facebook-analytics-2",
+        "title": "Calculate and explain post performance",
+        "body": "Continue the same brief: a tailoring shop deciding whether to make more fitting-tip videos or product photos. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: fictional seven-day totals: fitting-tip video reach 1,000 and 50 interactions; product photo reach 400 and 32 interactions; each post has been live for seven days. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Calculate an illustrative interaction-to-reach ratio for each sample: 50 divided by 1,000 is 5%, while 32 divided by 400 is 8%. Label this your chosen comparison measure rather than claiming it is an official platform metric. Explain that the video reached more people while the photo had more interactions per reached person in this sample. Note possible differences in topic, posting time or paid promotion. Do not add percentages with different denominators or infer purchases from interactions.\n\nReview checklist: The 5% and 8% calculations have visible denominators and do not imply sales. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Calling reach and impressions interchangeable without checking definitions.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.facebookblueprint.com/student/activity/185995-measure-your-promotion-s-success",
+        "minutes": 35
+      },
+      {
+        "id": "facebook-analytics-3",
+        "title": "Recommend a small content experiment",
+        "body": "You are preparing the handoff for a tailoring shop deciding whether to make more fitting-tip videos or product photos. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: fictional seven-day totals: fitting-tip video reach 1,000 and 50 interactions; product photo reach 400 and 32 interactions; each post has been live for seven days. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Write three observations, one limitation and one next action for the shop owner. Propose testing another fitting-tip video and a related photo with a comparable topic and observation window. Define what you will compare next week and what result would influence the next content choice. Keep the recommendation modest: two posts cannot establish what always works. Provide the calculation table and plain-language explanation, clearly marked as fictional practice data or an authorized real analysis.\n\nReview checklist: The recommendation specifies a repeatable comparison and acknowledges limited evidence. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Claiming a format causes purchases from engagement data alone.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.facebookblueprint.com/student/activity/185995-measure-your-promotion-s-success",
+        "minutes": 25
+      }
+    ],
+    "tool": "Facebook",
+    "areas": [
+      "Social media management",
+      "Reporting",
+      "Event marketing"
+    ],
+    "outcomes": [
+      "facebook-analytics"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "facebook-ads",
+    "name": "Plan a Facebook ad campaign",
+    "description": "Practise a bicycle repair stall planning enquiries for a weekend maintenance clinic. Build a no-spend Facebook campaign plan with audience rationale, sample creative, budget cap and measurement plan.",
+    "category": "Digital",
+    "icon": "Megaphone",
+    "color": "peach",
+    "source_url": "https://www.facebookblueprint.com/student/path/219699-selecting-objectives-course",
+    "first_step": "Start with a brief for a bicycle repair stall planning enquiries for a weekend maintenance clinic. Gather these sample inputs: fictional clinic capacity of 12 bikes, an illustrative maximum practice budget of ₦6,000 over three days, and a service radius the owner must approve.",
+    "task": "Create a no-spend Facebook campaign plan with audience rationale, sample creative, budget cap and measurement plan for a bicycle repair stall planning enquiries for a weekend maintenance clinic. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: The goal is meaningful enquiries and the proposed objective is justified against current options. The plan has a maximum total, duration, approval owner and truthful creative. A reviewer can explain when to stop and how useful enquiries would be counted. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "facebook-ads-1",
+        "title": "Connect an advertising goal to a real service",
+        "body": "Prerequisites: internet access and appropriate account permissions for real platform work. Without access, use the fictional inputs and a clearly labelled mockup. No posting, customer data access or ad spend is required. \n\nYour practice brief is a bicycle repair stall planning enquiries for a weekend maintenance clinic. The goal is a no-spend Facebook campaign plan with audience rationale, sample creative, budget cap and measurement plan. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: fictional clinic capacity of 12 bikes, an illustrative maximum practice budget of ₦6,000 over three days, and a service radius the owner must approve. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Ask what counts as a useful result: a local person asking to book a maintenance slot, not simply watching a video. Record the stall’s capacity, operating hours and approved area. Read Meta’s current objective descriptions and choose the available option that best supports the intended enquiry destination. Explain your choice in plain language rather than selecting the first option. This is a planning exercise: do not enter payment details, create a live campaign or spend the sample budget.\n\nReview checklist: The goal is meaningful enquiries and the proposed objective is justified against current options. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Confusing a fictional practice budget with guaranteed lead costs.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.facebookblueprint.com/student/path/219699-selecting-objectives-course",
+        "minutes": 20
+      },
+      {
+        "id": "facebook-ads-2",
+        "title": "Draft audience creative and budget controls",
+        "body": "Continue the same brief: a bicycle repair stall planning enquiries for a weekend maintenance clinic. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: fictional clinic capacity of 12 bikes, an illustrative maximum practice budget of ₦6,000 over three days, and a service radius the owner must approve. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Describe an audience based on the actual service area and relevant customer need without inventing sensitive traits. Draft a short ad: “Weekend bicycle check: brakes, tyres and chain inspection. Message to ask about an available slot.” Specify what the sample image will show and ensure it is yours or licensed. Divide the fictional maximum budget across three days and write a total cap, stop date and approval owner. Note that platform controls, minimums and costs vary; the sample amount is not a recommendation or performance forecast.\n\nReview checklist: The plan has a maximum total, duration, approval owner and truthful creative. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Planning beyond the stall’s capacity or spending without approval.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.facebookblueprint.com/student/path/219699-selecting-objectives-course",
+        "minutes": 35
+      },
+      {
+        "id": "facebook-ads-3",
+        "title": "Review an ad plan without spending",
+        "body": "You are preparing the handoff for a bicycle repair stall planning enquiries for a weekend maintenance clinic. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: fictional clinic capacity of 12 bikes, an illustrative maximum practice budget of ₦6,000 over three days, and a service radius the owner must approve. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Prepare a review sheet covering the enquiry destination, truthful offer, service capacity, budget approval and tracking method. Decide how the owner will distinguish a useful enquiry from spam and record it without collecting unnecessary personal details. Define a stop rule if bookings reach capacity or messages cannot be answered. Ask someone to critique the plan as if they owned the stall. Revise unclear assumptions and label every screenshot or mockup “practice draft—no live spend.”\n\nReview checklist: A reviewer can explain when to stop and how useful enquiries would be counted. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Choosing an audience using sensitive assumptions rather than service relevance.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.facebookblueprint.com/student/path/219699-selecting-objectives-course",
+        "minutes": 25
+      }
+    ],
+    "tool": "Facebook",
+    "areas": [
+      "Social media management",
+      "Paid marketing",
+      "Event marketing"
+    ],
+    "outcomes": [
+      "facebook-ad-planning"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "instagram-publish",
+    "name": "Prepare an Instagram Reel",
+    "description": "Practise a small pottery maker demonstrating how a mug is shaped for Instagram viewers. Build a 20–30 second Reel draft with cover, caption and permission checklist.",
+    "category": "Digital",
+    "icon": "Megaphone",
+    "color": "peach",
+    "source_url": "https://about.fb.com/news/2020/08/introducing-instagram-reels/",
+    "first_step": "Start with a brief for a small pottery maker demonstrating how a mug is shaped for Instagram viewers. Gather these sample inputs: three original vertical clips: clay preparation, shaping the handle and the finished mug; fictional studio name RiverClay.",
+    "task": "Create a 20–30 second Reel draft with cover, caption and permission checklist for a small pottery maker demonstrating how a mug is shaped for Instagram viewers. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: The storyboard teaches a specific pottery action rather than combining unrelated clips. Text remains legible and the selected cover survives ordinary cropping. The caption, audio permissions and account approval are included with the draft. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "instagram-publish-1",
+        "title": "Storyboard a useful pottery Reel",
+        "body": "Prerequisites: internet access and appropriate account permissions for real platform work. Without access, use the fictional inputs and a clearly labelled mockup. No posting, customer data access or ad spend is required. \n\nYour practice brief is a small pottery maker demonstrating how a mug is shaped for Instagram viewers. The goal is a 20–30 second Reel draft with cover, caption and permission checklist. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: three original vertical clips: clay preparation, shaping the handle and the finished mug; fictional studio name RiverClay. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Write the viewer’s takeaway: understand one step in making a handmade mug. Select your own footage or obtain the maker’s permission. Plan an opening that shows the finished object, then the handle-making action and a final close-up. Keep the studio name and any order instructions fictional for practice. Sketch three frames and note the words needed in each. Check Instagram’s current creation guidance for your device; controls and available effects can change by account and region.\n\nReview checklist: The storyboard teaches a specific pottery action rather than combining unrelated clips. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Hiding the useful action behind a large sticker or excessive effects.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.\n\nReference note: this official introduction is older; current interface details and available metrics need checking in your account.",
+        "source_url": "https://about.fb.com/news/2020/08/introducing-instagram-reels/",
+        "minutes": 20
+      },
+      {
+        "id": "instagram-publish-2",
+        "title": "Assemble and caption an Instagram draft",
+        "body": "Continue the same brief: a small pottery maker demonstrating how a mug is shaped for Instagram viewers. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: three original vertical clips: clay preparation, shaping the handle and the finished mug; fictional studio name RiverClay. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Use Instagram’s Reel creation workflow to arrange the three clips, or prepare a compatible video beforehand if editing tools are unavailable. Trim repeated hand movements while preserving the important shaping action. Add concise text such as “Shape, join, smooth” and captions for any spoken explanation. Choose a cover that still makes sense when cropped in a feed or profile preview. Use original sound or audio you are permitted to use; do not assume a personal music option is licensed for every business use.\n\nReview checklist: Text remains legible and the selected cover survives ordinary cropping. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Using someone else’s studio footage without consent.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://about.fb.com/news/2020/08/introducing-instagram-reels/",
+        "minutes": 35
+      },
+      {
+        "id": "instagram-publish-3",
+        "title": "Review the Reel before sharing",
+        "body": "You are preparing the handoff for a small pottery maker demonstrating how a mug is shaped for Instagram viewers. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: three original vertical clips: clay preparation, shaping the handle and the finished mug; fictional studio name RiverClay. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Preview the draft with sound off and check that hands, mug and text stay visible. Write a caption explaining the process and a single relevant question, such as which glaze color viewers would choose. Avoid fake scarcity or claims about orders you cannot fulfill. Save the draft or document it as a mockup if account access is unavailable. If a real studio authorizes posting, confirm the account and approval first. Record the final duration, cover and caption so the owner can review the complete package.\n\nReview checklist: The caption, audio permissions and account approval are included with the draft. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Assuming draft controls and music rights are identical on all accounts.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://about.fb.com/news/2020/08/introducing-instagram-reels/",
+        "minutes": 25
+      }
+    ],
+    "tool": "Instagram",
+    "areas": [
+      "Social media management",
+      "Content distribution"
+    ],
+    "outcomes": [
+      "instagram-publishing"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "canva-layout",
+    "name": "Lay out an event flyer in Canva",
+    "description": "Practise a community book swap needing a clear flyer for parents reading on phones. Build a readable square Canva flyer, editable design and text-only event description.",
+    "category": "Creative",
+    "icon": "PenTool",
+    "color": "lavender",
+    "source_url": "https://www.canva.com/design-school/resources/visual-hierarchy/",
+    "first_step": "Start with a brief for a community book swap needing a clear flyer for parents reading on phones. Gather these sample inputs: fictional “Saturday Book Swap”, 21 November, 10 am–1 pm, Unity Hall, free entry, bring one book in good condition; use no real phone number.",
+    "task": "Create a readable square Canva flyer, editable design and text-only event description for a community book swap needing a clear flyer for parents reading on phones. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: The hierarchy distinguishes a swap from a sale and includes all six event facts. Text boxes align consistently and no template placeholders remain. A phone viewer can identify time and location without zooming; the text version matches. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "canva-layout-1",
+        "title": "Find the book-swap message hierarchy",
+        "body": "Prerequisites: access to Canva on a supported device and permission to use your images. Choose available assets; paid template elements are optional. Account, export and sharing options may vary. \n\nYour practice brief is a community book swap needing a clear flyer for parents reading on phones. The goal is a readable square Canva flyer, editable design and text-only event description. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: fictional “Saturday Book Swap”, 21 November, 10 am–1 pm, Unity Hall, free entry, bring one book in good condition; use no real phone number. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Copy the event facts into a short brief and underline the title, date, time and place. Decide what a parent must notice first: this is a book swap, not a book sale. Sketch a simple layout with a large title, supporting details and the bring-one-book instruction. In Canva, begin with a blank square design or a template you can simplify. Choose one or two readable typefaces and a limited color palette. Use your own book photo or an asset whose usage rights fit the project.\n\nReview checklist: The hierarchy distinguishes a swap from a sale and includes all six event facts. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Choosing a decorative script for the address and time.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.canva.com/design-school/resources/visual-hierarchy/",
+        "minutes": 20
+      },
+      {
+        "id": "canva-layout-2",
+        "title": "Build an aligned Canva flyer",
+        "body": "Continue the same brief: a community book swap needing a clear flyer for parents reading on phones. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: fictional “Saturday Book Swap”, 21 November, 10 am–1 pm, Unity Hall, free entry, bring one book in good condition; use no real phone number. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Place the title first, then group date and time together and keep the location nearby. Use alignment and spacing tools rather than positioning each text box by guesswork. Make “free entry” visible without competing with the event name. Remove decorative elements that reduce room for essential details. Compare a light and dark background treatment and pick the one with clearer text. Check that every template placeholder has been replaced, including tiny sample text or an old event address.\n\nReview checklist: Text boxes align consistently and no template placeholders remain. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Making every line equally large so no information leads.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.canva.com/design-school/resources/visual-hierarchy/",
+        "minutes": 35
+      },
+      {
+        "id": "canva-layout-3",
+        "title": "Test the flyer on a phone",
+        "body": "You are preparing the handoff for a community book swap needing a clear flyer for parents reading on phones. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: fictional “Saturday Book Swap”, 21 November, 10 am–1 pm, Unity Hall, free entry, bring one book in good condition; use no real phone number. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Export a review image and open it on a phone at normal viewing size. Ask a reviewer to say the event, day, hours and location without zooming. Correct whichever detail they miss. Supply a text-only event description alongside the flyer so the organizer can paste accessible details into a post. Save the editable Canva design with an agreed sharing permission; do not expose unrelated personal projects. State that the date and venue are fictional practice inputs, not a real event announcement.\n\nReview checklist: A phone viewer can identify time and location without zooming; the text version matches. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Sending an edit link with unintended access to personal designs.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.canva.com/design-school/resources/visual-hierarchy/",
+        "minutes": 25
+      }
+    ],
+    "tool": "Canva",
+    "areas": [
+      "Graphic design",
+      "Event marketing",
+      "Content creation"
+    ],
+    "outcomes": [
+      "flyer-layout"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "event-run-sheet",
+    "name": "Build an event run sheet",
+    "description": "Practise a youth association holding a two-hour skills showcase with a late-arriving speaker. Build a timed run sheet with owners, dependencies, contingency and a revised late-speaker version.",
+    "category": "Organisation",
+    "icon": "CalendarDays",
+    "color": "sand",
+    "source_url": "https://www.eventbrite.com/blog/event-timeline-template/",
+    "first_step": "Start with a brief for a youth association holding a two-hour skills showcase with a late-arriving speaker. Gather these sample inputs: fictional programme from 2 pm to 4 pm: welcome 10 minutes, demo one 25, speaker 20, break 10, demo two 25, questions 20, close 10.",
+    "task": "Create a timed run sheet with owners, dependencies, contingency and a revised late-speaker version for a youth association holding a two-hour skills showcase with a late-arriving speaker. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: The schedule totals 120 minutes and each activity has an owner and end time. Equipment dependencies and a specific late-speaker decision are documented. Another volunteer can act from the sheet without relying on your memory. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "event-run-sheet-1",
+        "title": "Convert a programme into timed responsibilities",
+        "body": "Prerequisites: a notebook or document/table editor and a reviewer for the final check. Use fictional details or authorized materials. Paid software and a real client are not necessary for this exercise. \n\nYour practice brief is a youth association holding a two-hour skills showcase with a late-arriving speaker. The goal is a timed run sheet with owners, dependencies, contingency and a revised late-speaker version. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: fictional programme from 2 pm to 4 pm: welcome 10 minutes, demo one 25, speaker 20, break 10, demo two 25, questions 20, close 10. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Add the sample durations: they total 120 minutes, filling the full two-hour window without spare time. Create columns for start, finish, activity, responsible person, equipment and cue. Calculate each start from the previous finish rather than guessing. Assign fictional roles such as host, sound lead and registration lead. Ask who confirms the venue opening time and when equipment can be tested. A run sheet coordinates people and transitions; a list of activities without owners is not yet operational.\n\nReview checklist: The schedule totals 120 minutes and each activity has an owner and end time. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Allocating all time to stage content and forgetting transitions.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.eventbrite.com/blog/event-timeline-template/",
+        "minutes": 20
+      },
+      {
+        "id": "event-run-sheet-2",
+        "title": "Build dependencies and a delay plan",
+        "body": "Continue the same brief: a youth association holding a two-hour skills showcase with a late-arriving speaker. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: fictional programme from 2 pm to 4 pm: welcome 10 minutes, demo one 25, speaker 20, break 10, demo two 25, questions 20, close 10. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Identify what each session needs before it starts. The demonstrations may need a projector, an HDMI adapter and a tested laptop; the speaker needs a working microphone. Add setup and handover notes inside the existing time allocation or propose shortening an activity with organizer approval. Simulate the speaker arriving at 2:55 instead of the planned 2:35. Draft a revised order that preserves the 4 pm finish, and label exactly which activity changes rather than silently extending the event.\n\nReview checklist: Equipment dependencies and a specific late-speaker decision are documented. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Changing the programme without telling the host or sound team.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.eventbrite.com/blog/event-timeline-template/",
+        "minutes": 35
+      },
+      {
+        "id": "event-run-sheet-3",
+        "title": "Rehearse and hand over the run sheet",
+        "body": "You are preparing the handoff for a youth association holding a two-hour skills showcase with a late-arriving speaker. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: fictional programme from 2 pm to 4 pm: welcome 10 minutes, demo one 25, speaker 20, break 10, demo two 25, questions 20, close 10. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Read the run sheet aloud with another person acting as the sound lead. Ask them when to prepare the microphone, who authorizes a change and how they will learn that the speaker has arrived. Correct missing cues. Include a decision owner, backup activity and a version timestamp. Export a phone-readable PDF or image and keep an editable table. Use role names and fictional contacts in shared evidence. Explain the late-speaker contingency to the host before calling the plan ready.\n\nReview checklist: Another volunteer can act from the sheet without relying on your memory. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Sharing private volunteer phone numbers in a public portfolio.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.eventbrite.com/blog/event-timeline-template/",
+        "minutes": 25
+      }
+    ],
+    "tool": "Tool independent",
+    "areas": [
+      "Event coordination",
+      "Project coordination",
+      "Event media"
+    ],
+    "outcomes": [
+      "event-scheduling"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "html-structure",
+    "name": "Structure a page with semantic HTML",
+    "description": "Practise a local shoe-repair shop needing a simple page that works without styling. Build one semantic HTML page with services, hours, navigation and an accessible enquiry form mockup.",
+    "category": "Digital",
+    "icon": "Code2",
+    "color": "blue",
+    "source_url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents",
+    "first_step": "Start with a brief for a local shoe-repair shop needing a simple page that works without styling. Gather these sample inputs: fictional shop “Sole Care”, services: sole replacement, stitching and cleaning; opening hours Monday–Saturday 8 am–6 pm; use a placeholder contact link.",
+    "task": "Create one semantic HTML page with services, hours, navigation and an accessible enquiry form mockup for a local shoe-repair shop needing a simple page that works without styling. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: All three customer questions have a place in the content outline. Headings are logical, links have real targets and form controls have labels. Keyboard navigation works and the unsent form is clearly described as a mockup. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "html-structure-1",
+        "title": "Map shoe-repair information to HTML structure",
+        "body": "Prerequisites: a computer with a text editor and browser, or another accessible coding environment you already use. Work locally with fictional inputs; no hosting account or paid service is required. \n\nYour practice brief is a local shoe-repair shop needing a simple page that works without styling. The goal is one semantic HTML page with services, hours, navigation and an accessible enquiry form mockup. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: fictional shop “Sole Care”, services: sole replacement, stitching and cleaning; opening hours Monday–Saturday 8 am–6 pm; use a placeholder contact link. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Write the customer’s three questions: what can you repair, when are you open and how can I ask? Group the content into an introduction, services, opening hours and enquiry section. Create a local HTML file with a doctype, language, character encoding, viewport metadata and descriptive title. Plan one main heading for Sole Care and section headings underneath it. Choose elements for their meaning, not their default size. The page should remain understandable before any CSS is added.\n\nReview checklist: All three customer questions have a place in the content outline. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Using headings only to obtain a large font.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents",
+        "minutes": 20
+      },
+      {
+        "id": "html-structure-2",
+        "title": "Write useful semantic markup",
+        "body": "Continue the same brief: a local shoe-repair shop needing a simple page that works without styling. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: fictional shop “Sole Care”, services: sole replacement, stitching and cleaning; opening hours Monday–Saturday 8 am–6 pm; use a placeholder contact link. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Use header and nav for the identity and section links, main for the primary content and footer for a short practice notice. Represent the services with a list and the hours with clearly labelled text. Add real section IDs so navigation links move to the correct content. If including a shoe photo, write useful alternative text for informative imagery and use empty alt text for purely decorative images. Build a labelled enquiry form with a text field and button, explicitly marked as a non-sending practice form.\n\nRunnable starter (save as index.html and open locally):\n<!doctype html>\n<html lang=\"en\"><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>Sole Care practice</title>\n<body><header><h1>Sole Care</h1><nav><a href=\"#services\">Services</a></nav></header>\n<main><section id=\"services\"><h2>Repairs</h2><ul><li>Stitching</li><li>Cleaning</li></ul></section>\n<section><h2>Enquiry practice</h2><p>This form does not send messages.</p><form onsubmit=\"event.preventDefault()\"><label for=\"question\">Your question</label><input id=\"question\" name=\"question\"><button type=\"button\">Practice only</button></form></section></main></body></html>\nExtend this starter with opening hours; keep the form explicitly non-sending.\n\nReview checklist: Headings are logical, links have real targets and form controls have labels. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Writing click here for every link or omitting input labels.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents",
+        "minutes": 35
+      },
+      {
+        "id": "html-structure-3",
+        "title": "Check keyboard reading and document meaning",
+        "body": "You are preparing the handoff for a local shoe-repair shop needing a simple page that works without styling. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: fictional shop “Sole Care”, services: sole replacement, stitching and cleaning; opening hours Monday–Saturday 8 am–6 pm; use a placeholder contact link. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Open the file in a browser and navigate using only the keyboard. Check that links and form fields have meaningful names, headings form a logical sequence and the content does not depend on visual position. Read the page aloud in source order. Temporarily remove an image and confirm its alternative text still conveys the intended information. Validate the markup with a trusted HTML checker when available, fix reported structural problems and save the final source. Do not present the form as a working messaging service.\n\nReview checklist: Keyboard navigation works and the unsent form is clearly described as a mockup. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Claiming a static form sends enquiries when no submission mechanism exists.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents",
+        "minutes": 25
+      }
+    ],
+    "tool": "HTML",
+    "areas": [
+      "Web design",
+      "Accessibility"
+    ],
+    "outcomes": [
+      "semantic-html"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "css-responsive",
+    "name": "Build a responsive layout with CSS",
+    "description": "Practise a home baker displaying a small cake menu on narrow phones and larger screens. Build a responsive CSS menu page with narrow and wide screenshots and a short test log.",
+    "category": "Digital",
+    "icon": "Code2",
+    "color": "blue",
+    "source_url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design",
+    "first_step": "Start with a brief for a home baker displaying a small cake menu on narrow phones and larger screens. Gather these sample inputs: fictional menu cards for vanilla loaf, chocolate cupcakes and coconut slices; long sample label “Celebration-size chocolate cupcakes”.",
+    "task": "Create a responsive CSS menu page with narrow and wide screenshots and a short test log for a home baker displaying a small cake menu on narrow phones and larger screens. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: The base layout reads naturally as one column on a narrow viewport. Card widths adapt and the long product label does not overlap other content. Zoom, keyboard focus and varied image proportions remain usable. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "css-responsive-1",
+        "title": "Start a mobile-first cake-menu layout",
+        "body": "Prerequisites: a computer with a text editor and browser, or another accessible coding environment you already use. Work locally with fictional inputs; no hosting account or paid service is required. \n\nYour practice brief is a home baker displaying a small cake menu on narrow phones and larger screens. The goal is a responsive CSS menu page with narrow and wide screenshots and a short test log. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: fictional menu cards for vanilla loaf, chocolate cupcakes and coconut slices; long sample label “Celebration-size chocolate cupcakes”. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Begin with a semantic HTML page containing a heading and three product cards. Include the long sample label so the layout faces a realistic stress case. Add the viewport meta tag if it is missing. Write base CSS for a single readable column, comfortable text and spacing. Set border-box sizing so padding behaves predictably. Give images a maximum width of 100% with an appropriate automatic height. Avoid a fixed page width that assumes everyone has a desktop monitor.\n\nReview checklist: The base layout reads naturally as one column on a narrow viewport. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Using overflow hidden to conceal important clipped text.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design",
+        "minutes": 20
+      },
+      {
+        "id": "css-responsive-2",
+        "title": "Use flexible CSS instead of fixed widths",
+        "body": "Continue the same brief: a home baker displaying a small cake menu on narrow phones and larger screens. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: fictional menu cards for vanilla loaf, chocolate cupcakes and coconut slices; long sample label “Celebration-size chocolate cupcakes”. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Use Grid or Flexbox to arrange cards when space permits. A grid with repeat(auto-fit, minmax(min(100%, 15rem), 1fr)) is one possible starting point; understand each part before copying it. Keep a sensible maximum content width and center the container with available space. Add a media query only where the content needs a different arrangement, rather than targeting one phone brand. Let text wrap naturally and inspect long names. Style links or buttons with visible keyboard focus and enough room around their labels.\n\nRunnable CSS starter (apply to a container with class menu and cards inside):\n* { box-sizing: border-box; }\nbody { margin: 0; font: 1rem/1.5 sans-serif; padding: 1rem; }\n.menu { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 1rem; max-width: 65rem; margin-inline: auto; }\n.menu > article { padding: 1rem; border: 1px solid #777; }\nimg { max-width: 100%; height: auto; }\na:focus-visible, button:focus-visible { outline: 3px solid #174ea6; outline-offset: 3px; }\nTry three article cards; resize the browser and inspect the long cupcake name.\n\nReview checklist: Card widths adapt and the long product label does not overlap other content. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Adding a separate fixed-width rule for every device.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design",
+        "minutes": 35
+      },
+      {
+        "id": "css-responsive-3",
+        "title": "Test overflow zoom and focus",
+        "body": "You are preparing the handoff for a home baker displaying a small cake menu on narrow phones and larger screens. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: fictional menu cards for vanilla loaf, chocolate cupcakes and coconut slices; long sample label “Celebration-size chocolate cupcakes”. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Test the page around 320, 768 and 1280 CSS pixels, treating these as practice checks rather than a complete device list. Increase browser zoom and verify that text remains usable without horizontal scrolling. Tab through interactive elements and confirm the focus indicator stays visible. Replace one image with a taller one and add a longer product name to challenge the layout. Record each problem and the CSS change that fixes it. Capture final narrow and wide screenshots without hiding overflow to conceal broken content.\n\nReview checklist: Zoom, keyboard focus and varied image proportions remain usable. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Testing only the exact browser size used while writing the CSS.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design",
+        "minutes": 25
+      }
+    ],
+    "tool": "CSS",
+    "areas": [
+      "Web design",
+      "Interface design"
+    ],
+    "outcomes": [
+      "responsive-layout"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "technical-writing",
+    "name": "Technical writing and onboarding guides",
+    "description": "Practise a small delivery company onboarding a new dispatcher to a practice order dashboard. Build a one-page dispatcher onboarding guide with numbered steps, expected results and recovery advice.",
+    "category": "Professional",
+    "icon": "Code2",
+    "color": "blue",
+    "source_url": "https://developers.google.com/tech-writing/one/audience",
+    "first_step": "Start with a brief for a small delivery company onboarding a new dispatcher to a practice order dashboard. Gather these sample inputs: fictional order D-104, status “Awaiting assignment”, sample rider “Rider A”, and a dashboard mockup with Assign and Confirm controls.",
+    "task": "Create a one-page dispatcher onboarding guide with numbered steps, expected results and recovery advice for a small delivery company onboarding a new dispatcher to a practice order dashboard. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: The guide identifies its audience, prerequisites and a measurable completion state. Each action has a clear expected result and uses consistent interface terms. A new reader can follow it and knows what to do when the sample assignment fails. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "technical-writing-1",
+        "title": "Define the dispatcher’s first successful task",
+        "body": "Prerequisites: a notebook or document/table editor and a reviewer for the final check. Use fictional details or authorized materials. Paid software and a real client are not necessary for this exercise. \n\nYour practice brief is a small delivery company onboarding a new dispatcher to a practice order dashboard. The goal is a one-page dispatcher onboarding guide with numbered steps, expected results and recovery advice. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: fictional order D-104, status “Awaiting assignment”, sample rider “Rider A”, and a dashboard mockup with Assign and Confirm controls. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Interview a pretend new dispatcher or ask a friend what they would need to know before assigning an order. Define the goal narrowly: assign practice order D-104 to Rider A and confirm the status changed. List prerequisites such as access to a test dashboard and permission to assign orders. Separate terms that need explanation from details the reader already knows. Describe the sample interface as fictional; do not claim these controls belong to a real delivery product. Draft an outline with preparation, action, confirmation and recovery.\n\nReview checklist: The guide identifies its audience, prerequisites and a measurable completion state. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Writing for the developer who already understands the dashboard.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://developers.google.com/tech-writing/one/audience",
+        "minutes": 20
+      },
+      {
+        "id": "technical-writing-2",
+        "title": "Write a usable assignment procedure",
+        "body": "Continue the same brief: a small delivery company onboarding a new dispatcher to a practice order dashboard. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: fictional order D-104, status “Awaiting assignment”, sample rider “Rider A”, and a dashboard mockup with Assign and Confirm controls. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Write numbered instructions that start with verbs: open the practice order, check its destination area, choose Assign, select Rider A and confirm. After each meaningful action, state what the reader should see. Include a warning to confirm the correct order before changing it. Use a cropped mock screenshot if useful, with a text explanation that works without the image. Explain “Awaiting assignment” in ordinary language. Keep private customer details and real login information out of the guide, and never instruct readers to share passwords.\n\nReview checklist: Each action has a clear expected result and uses consistent interface terms. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Using unexplained jargon or hiding essential steps inside screenshots.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://developers.google.com/tech-writing/one/audience",
+        "minutes": 35
+      },
+      {
+        "id": "technical-writing-3",
+        "title": "Test and revise the onboarding guide",
+        "body": "You are preparing the handoff for a small delivery company onboarding a new dispatcher to a practice order dashboard. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: fictional order D-104, status “Awaiting assignment”, sample rider “Rider A”, and a dashboard mockup with Assign and Confirm controls. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Give the draft to someone who has not helped write it and ask them to complete the assignment in the mockup or describe their next click. Observe without coaching. Mark every point where they hesitate, then improve the wording or missing prerequisite. Add recovery instructions for a missing rider or an unchanged status, including when to ask a supervisor. End with a clear success check and a version date. Save the first draft, final guide and a short note describing one change caused by the reader test.\n\nReview checklist: A new reader can follow it and knows what to do when the sample assignment fails. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Correcting the reader verbally instead of fixing the unclear guide.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://developers.google.com/tech-writing/one/audience",
+        "minutes": 25
+      }
+    ],
+    "tool": "Tool independent",
+    "areas": [
+      "Technical communication",
+      "Customer onboarding",
+      "Teaching"
+    ],
+    "outcomes": [
+      "instructional-writing",
+      "audience-explanation"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "code-demonstration",
+    "name": "Explain code through a practical demonstration",
+    "description": "Practise a market cooperative learning how a small JavaScript function totals produce orders. Build a working sumPrices demonstration, three tests and a three-minute explanation or transcript.",
+    "category": "Professional",
+    "icon": "Code2",
+    "color": "blue",
+    "source_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition",
+    "first_step": "Start with a brief for a market cooperative learning how a small JavaScript function totals produce orders. Gather these sample inputs: sample prices [1200, 800, 500], expected total 2500, an empty list expected to total 0, and a separate invalid-input example.",
+    "task": "Create a working sumPrices demonstration, three tests and a three-minute explanation or transcript for a market cooperative learning how a small JavaScript function totals produce orders. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: The function contract and expected sample result are stated before implementation. A trace connects each iteration to the final total; empty input is handled. A learner can predict a new result and the explanation does not overclaim production readiness. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "code-demonstration-1",
+        "title": "Choose an understandable programming example",
+        "body": "Prerequisites: a computer with a text editor and browser, or another accessible coding environment you already use. Work locally with fictional inputs; no hosting account or paid service is required. \n\nYour practice brief is a market cooperative learning how a small JavaScript function totals produce orders. The goal is a working sumPrices demonstration, three tests and a three-minute explanation or transcript. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: sample prices [1200, 800, 500], expected total 2500, an empty list expected to total 0, and a separate invalid-input example. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Write the practical problem before coding: add the prices of items in a produce order. Use the fictional array [1200, 800, 500] and calculate 2500 by hand. Decide what the function accepts and returns, including what an empty list should do. Explain that the sample assumes numeric prices in one currency and does not handle a complete checkout system. Prepare a local JavaScript environment you already know, such as a browser console or Node. Remove unrelated code so the demonstration has one visible purpose.\n\nReview checklist: The function contract and expected sample result are stated before implementation. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Reading code aloud without explaining what data changes.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition",
+        "minutes": 20
+      },
+      {
+        "id": "code-demonstration-2",
+        "title": "Demonstrate inputs transformations and output",
+        "body": "Continue the same brief: a market cooperative learning how a small JavaScript function totals produce orders. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: sample prices [1200, 800, 500], expected total 2500, an empty list expected to total 0, and a separate invalid-input example. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Write function sumPrices(prices) with a total initialized to zero, a loop over the prices and a returned total. Run the sample, then trace how total changes from 0 to 1200, 2000 and 2500. Explain why the initial value matters for an empty list. Add a simple assertion for the example and one for []. Show what happens when a string appears in the input, then explain whether you will reject invalid values or explicitly limit the demonstration to numeric arrays. Do not silently hide an unexpected result.\n\nRunnable JavaScript (paste into a local console):\nfunction sumPrices(prices) {\n  if (!Array.isArray(prices) || prices.some(p => typeof p !== 'number' || !Number.isFinite(p) || p < 0)) throw new TypeError('Use nonnegative numeric prices');\n  let total = 0;\n  for (const price of prices) total += price;\n  return total;\n}\nconsole.assert(sumPrices([1200, 800, 500]) === 2500);\nconsole.assert(sumPrices([]) === 0);\nconsole.assert(sumPrices([300, 700]) === 1000);\ntry { sumPrices([300, '700']); } catch (error) { console.log(error.message); }\nThis teaching example is not a complete money-handling library. Explain the input guard and the empty-list test.\n\nReview checklist: A trace connects each iteration to the final total; empty input is handled. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Using a large application that distracts from the concept.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition",
+        "minutes": 35
+      },
+      {
+        "id": "code-demonstration-3",
+        "title": "Test the explanation with a beginner",
+        "body": "You are preparing the handoff for a market cooperative learning how a small JavaScript function totals produce orders. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: sample prices [1200, 800, 500], expected total 2500, an empty list expected to total 0, and a separate invalid-input example. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Record a short walkthrough or write a transcript with the problem, input, loop, output and tests. Ask a beginner to predict the result for [300, 700] before running it. If they cannot explain the change to total, use a small trace table rather than speaking faster. Finish by stating the example’s limitations, including money precision for more complex cases and the absence of real order storage. Save the source, test output and explanation. Evidence should show both code correctness and how you made the reasoning understandable.\n\nReview checklist: A learner can predict a new result and the explanation does not overclaim production readiness. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Ignoring JavaScript string concatenation when invalid inputs enter the array.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition",
+        "minutes": 25
+      }
+    ],
+    "tool": "Tool independent",
+    "areas": [
+      "Software development",
+      "Teaching",
+      "Technical communication"
+    ],
+    "outcomes": [
+      "programming-demonstration"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "learner-guidance",
+    "name": "Guide someone through a coding problem",
+    "description": "Practise a study-group member debugging a JavaScript cart total without having the answer taken away. Build a guided debugging session plan, corrected learner-owned code and reflection notes.",
+    "category": "Professional",
+    "icon": "Code2",
+    "color": "blue",
+    "source_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition",
+    "first_step": "Start with a brief for a study-group member debugging a JavaScript cart total without having the answer taken away. Gather these sample inputs: practice code: let total = \"0\"; for (const price of [300, 700]) { total += price; }; expected result is numeric 1000.",
+    "task": "Create a guided debugging session plan, corrected learner-owned code and reflection notes for a study-group member debugging a JavaScript cart total without having the answer taken away. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: The learner’s expectation and actual output are recorded before any correction. Hints lead to inspecting types and changing the initial value; the learner controls the code. A new example tests understanding and the reflection identifies an improvement to your guidance. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "learner-guidance-1",
+        "title": "Diagnose understanding before giving advice",
+        "body": "Prerequisites: a computer with a text editor and browser, or another accessible coding environment you already use. Work locally with fictional inputs; no hosting account or paid service is required. \n\nYour practice brief is a study-group member debugging a JavaScript cart total without having the answer taken away. The goal is a guided debugging session plan, corrected learner-owned code and reflection notes. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: practice code: let total = \"0\"; for (const price of [300, 700]) { total += price; }; expected result is numeric 1000. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Ask the learner what they expected and what the program actually produced. Have them run the sample and inspect the type of total as well as its displayed value. Agree that the session goal is understanding the cause, not only obtaining 1000. Ask what they think the quoted zero means in JavaScript. Listen before explaining. Keep the exercise in a local sandbox and use fictional prices. If you are practising alone, write the learner’s likely responses and identify where a real learner might need a different question.\n\nReview checklist: The learner’s expectation and actual output are recorded before any correction. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Taking the keyboard immediately and solving the problem for them.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.\n\nReference scope: MDN supports the JavaScript behavior; the coaching sequence is an original practice approach, not a vendor teaching qualification.",
+        "source_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition",
+        "minutes": 20
+      },
+      {
+        "id": "learner-guidance-2",
+        "title": "Guide a learner through evidence-based debugging",
+        "body": "Continue the same brief: a study-group member debugging a JavaScript cart total without having the answer taken away. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: practice code: let total = \"0\"; for (const price of [300, 700]) { total += price; }; expected result is numeric 1000. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Invite the learner to predict what happens when a string and number are combined. Ask them to add a temporary log after each iteration and compare the observed values to their prediction. Offer a hint about the initial value if they remain stuck, then let them change \"0\" to 0 and rerun the code. Explain the smallest relevant concept: += follows addition or concatenation behavior depending on the values involved. Avoid rewriting the entire loop yourself. Let the learner describe why the change worked in their own words.\n\nReview checklist: Hints lead to inspecting types and changing the initial value; the learner controls the code. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Treating confusion as carelessness instead of checking the learner’s model.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition",
+        "minutes": 35
+      },
+      {
+        "id": "learner-guidance-3",
+        "title": "Check transfer and reflect on your guidance",
+        "body": "You are preparing the handoff for a study-group member debugging a JavaScript cart total without having the answer taken away. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: practice code: let total = \"0\"; for (const price of [300, 700]) { total += price; }; expected result is numeric 1000. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Give a fresh example with [250, 250, 500] and ask the learner to predict the total and its type before running it. Then ask how they would recognize a similar problem next time. Record which question helped and which explanation caused confusion, without storing private information about a real person. Keep the learner’s corrected code and a brief reflection on your own guidance. If this was a role-play, label it honestly. A successful session shows a learner gaining a debugging strategy, not merely copying your final answer.\n\nReview checklist: A new example tests understanding and the reflection identifies an improvement to your guidance. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Claiming a simulated session proves independent tutoring experience.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition",
+        "minutes": 25
+      }
+    ],
+    "tool": "Tool independent",
+    "areas": [
+      "Teaching",
+      "Team guidance"
+    ],
+    "outcomes": [
+      "learner-guidance"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "resolve-trim",
+    "name": "Clip editing with DaVinci Resolve",
+    "description": "Practise a neighbourhood football team making a short training recap for supporters. Build a 35–45 second DaVinci Resolve recap with organized media and a review export.",
+    "category": "Creative",
+    "icon": "Clapperboard",
+    "color": "sage",
+    "source_url": "https://www.blackmagicdesign.com/products/davinciresolve/training",
+    "first_step": "Start with a brief for a neighbourhood football team making a short training recap for supporters. Gather these sample inputs: three owned clips: warm-up, passing drill and team huddle; ask consent before including recognizable players.",
+    "task": "Create a 35–45 second DaVinci Resolve recap with organized media and a review export for a neighbourhood football team making a short training recap for supporters. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: Media is organized and every recognizable participant has appropriate permission. One complete passing action survives the edit and the ending is deliberate. The render plays independently and consent restrictions accompany the handoff. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "resolve-trim-1",
+        "title": "Prepare football footage in Resolve",
+        "body": "Prerequisites: a compatible computer with DaVinci Resolve installed and enough storage for your footage. Check current system requirements and which features your edition includes; this is not a basic-phone workflow. \n\nYour practice brief is a neighbourhood football team making a short training recap for supporters. The goal is a 35–45 second DaVinci Resolve recap with organized media and a review export. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: three owned clips: warm-up, passing drill and team huddle; ask consent before including recognizable players. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Copy the footage into a named folder and check consent for recognizable players. Open DaVinci Resolve and organize the clips in the Media Pool using clear names. Inspect resolution and frame rate before establishing project settings; changes can affect later work. Create a timeline that suits the intended viewing format. Plan the story as warm-up, one meaningful passing exchange and the huddle. Leave out footage that could embarrass a player or reveal private information. Use original practice clips if consent is uncertain.\n\nReview checklist: Media is organized and every recognizable participant has appropriate permission. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Changing media locations so the project loses its sources.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.blackmagicdesign.com/products/davinciresolve/training",
+        "minutes": 20
+      },
+      {
+        "id": "resolve-trim-2",
+        "title": "Shape a recap on the editing timeline",
+        "body": "Continue the same brief: a neighbourhood football team making a short training recap for supporters. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: three owned clips: warm-up, passing drill and team huddle; ask consent before including recognizable players. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Use the editing workspace available in your Resolve version to place selected parts on the timeline. Trim clip boundaries and remove long stretches between meaningful actions. Keep one complete passing exchange so viewers can follow the drill. Play each transition and check that the huddle feels like an ending. Balance useful location sound without overwhelming speech. Add a short team-training title if appropriate, but avoid implying sponsorship or a match result. Save a separate project version before trying experimental transitions or color adjustments.\n\nReview checklist: One complete passing action survives the edit and the ending is deliberate. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Cutting so rapidly that the passing drill cannot be understood.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.blackmagicdesign.com/products/davinciresolve/training",
+        "minutes": 35
+      },
+      {
+        "id": "resolve-trim-3",
+        "title": "Render and review the training recap",
+        "body": "You are preparing the handoff for a neighbourhood football team making a short training recap for supporters. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: three owned clips: warm-up, passing drill and team huddle; ask consent before including recognizable players. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Use Resolve’s delivery workflow to create a review video in a commonly playable format. Confirm the output folder and render queue selection before starting. Play the rendered file outside Resolve and inspect motion, sound and the final frame. Ask a teammate to identify the three phases of training after one viewing. If the story is unclear, revise shot selection rather than adding more titles. Retain the project and source folder arrangement, and deliver a brief note listing duration, format and any remaining consent restrictions.\n\nReview checklist: The render plays independently and consent restrictions accompany the handoff. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Posting players publicly before confirming their permission.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.blackmagicdesign.com/products/davinciresolve/training",
+        "minutes": 25
+      }
+    ],
+    "tool": "DaVinci Resolve",
+    "areas": [
+      "Video editing",
+      "Content creation",
+      "Event media"
+    ],
+    "outcomes": [
+      "clip-sequencing"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "photoshop-layout",
+    "name": "Event flyer layout with Photoshop",
+    "description": "Practise a local photography club announcing a beginner photo walk using one large background photograph. Build a layered Photoshop event poster, flattened review image and contrast comparison.",
+    "category": "Creative",
+    "icon": "PenTool",
+    "color": "lavender",
+    "source_url": "https://www.adobe.com/learn/photoshop/web/make-poster",
+    "first_step": "Start with a brief for a local photography club announcing a beginner photo walk using one large background photograph. Gather these sample inputs: fictional “Explore Our Streets”, 28 November, 7:30 am, meet at Civic Square, bring a phone or camera; use an owned street photo without identifiable bystanders.",
+    "task": "Create a layered Photoshop event poster, flattened review image and contrast comparison for a local photography club announcing a beginner photo walk using one large background photograph. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: Output purpose, image rights and named editable layers are documented. Text remains readable over the photograph and the image is not distorted. The flattened image matches the layered source and the meeting facts survive phone-size review. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "photoshop-layout-1",
+        "title": "Set up a layered photo-walk poster",
+        "body": "Prerequisites: a computer that runs Photoshop, an installed version and lawful licence or trial access; the app is not supplied here. Check current device requirements and pricing before committing. \n\nYour practice brief is a local photography club announcing a beginner photo walk using one large background photograph. The goal is a layered Photoshop event poster, flattened review image and contrast comparison. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: fictional “Explore Our Streets”, 28 November, 7:30 am, meet at Civic Square, bring a phone or camera; use an owned street photo without identifiable bystanders. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Confirm the photo-walk facts and decide whether the first output is for a phone screen or print. Create a Photoshop document appropriate to that output and place a copy of your owned photograph. Keep the original photo untouched. Name the background and text layers so another designer can understand the file. Identify the calmest part of the picture for the title. Write a simple hierarchy: event name, meeting time and place, then equipment instruction. Do not use a real person’s image without permission.\n\nReview checklist: Output purpose, image rights and named editable layers are documented. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Flattening the only source file before the organizer approves the text.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.adobe.com/learn/photoshop/web/make-poster",
+        "minutes": 20
+      },
+      {
+        "id": "photoshop-layout-2",
+        "title": "Build readable text over a photograph",
+        "body": "Continue the same brief: a local photography club announcing a beginner photo walk using one large background photograph. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: fictional “Explore Our Streets”, 28 November, 7:30 am, meet at Civic Square, bring a phone or camera; use an owned street photo without identifiable bystanders. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Add text as editable type layers rather than painting words onto the background. Place a subtle shape or tonal treatment behind text if the photograph makes it difficult to read. Compare the design with and without the treatment. Use alignment and consistent spacing to group the meeting details. Crop or mask the photo non-destructively where possible so later revisions remain easy. Keep “7:30 am” clearly distinct from the event name. Limit decorative type and avoid stretching the photograph to fill a different proportion.\n\nReview checklist: Text remains readable over the photograph and the image is not distorted. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Choosing a busy image area for tiny white lettering.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.adobe.com/learn/photoshop/web/make-poster",
+        "minutes": 35
+      },
+      {
+        "id": "photoshop-layout-3",
+        "title": "Review and deliver editable Photoshop artwork",
+        "body": "You are preparing the handoff for a local photography club announcing a beginner photo walk using one large background photograph. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: fictional “Explore Our Streets”, 28 November, 7:30 am, meet at Civic Square, bring a phone or camera; use an owned street photo without identifiable bystanders. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Export a flattened review image while keeping the layered Photoshop source. Inspect it at phone size and ask a reviewer to locate Civic Square and the meeting time. Check the spelling and ensure no hidden draft text appears in the export. If a print version is requested, ask the printer for size, bleed and color requirements rather than guessing. Package the approved source and review image with sensible filenames. Include a text-only event description and state that the supplied dates are fictional practice details.\n\nReview checklist: The flattened image matches the layered source and the meeting facts survive phone-size review. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Assuming a social-media export automatically meets a printer’s specifications.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.adobe.com/learn/photoshop/web/make-poster",
+        "minutes": 25
+      }
+    ],
+    "tool": "Photoshop",
+    "areas": [
+      "Graphic design",
+      "Event marketing",
+      "Content creation"
+    ],
+    "outcomes": [
+      "flyer-layout"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  },
+  {
+    "id": "illustrator-layout",
+    "name": "Event flyer layout with Illustrator",
+    "description": "Practise a community repair café needing a crisp poster that can be resized for several noticeboards. Build an editable Illustrator vector poster, a review PDF and a small-format readability check.",
+    "category": "Creative",
+    "icon": "PenTool",
+    "color": "lavender",
+    "source_url": "https://www.adobe.com/learn/illustrator",
+    "first_step": "Start with a brief for a community repair café needing a crisp poster that can be resized for several noticeboards. Gather these sample inputs: fictional “Fix It Together”, 5 December, 11 am–2 pm, Market Hall, bring one small household item; no electrical repair promise.",
+    "task": "Create an editable Illustrator vector poster, a review PDF and a small-format readability check for a community repair café needing a crisp poster that can be resized for several noticeboards. Use the fictional practice inputs or your own permission-cleared equivalent. Deliverable checklist: The brief states service limits and the poster hierarchy works at its planned size. Objects are grouped, text stays editable and essential facts do not depend only on color. The PDF opens correctly and reduced-size testing still reveals location and instructions. Include the editable work where applicable, the final review copy, and a short note explaining one revision and what remains unverified. Completing lessons records learning; submit an example separately to demonstrate the mapped skill. Do not publish, spend money or share private information simply to complete this task.",
+    "lessons": [
+      {
+        "id": "illustrator-layout-1",
+        "title": "Plan a scalable repair-café poster",
+        "body": "Prerequisites: a computer that runs Illustrator, an installed version and lawful licence or trial access; the app is not supplied here. Check current device requirements and pricing before committing. \n\nYour practice brief is a community repair café needing a crisp poster that can be resized for several noticeboards. The goal is an editable Illustrator vector poster, a review PDF and a small-format readability check. A useful result answers a real person's need and gives you something specific to discuss with a reviewer, rather than merely proving that you opened the software.\n\nSample inputs: fictional “Fix It Together”, 5 December, 11 am–2 pm, Market Hall, bring one small household item; no electrical repair promise. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: List the event facts and clarify the service limit: the practice brief does not promise electrical repairs. In Illustrator, create an artboard for an agreed poster size and sketch a hierarchy before adding decoration. Use simple vector shapes to suggest repair tools without tracing another organization’s logo. Choose readable typography and leave clear margins. Plan how the design might work at a smaller noticeboard size. Vector shapes scale cleanly, but text can still become too small to read when the whole poster is reduced.\n\nReview checklist: The brief states service limits and the poster hierarchy works at its planned size. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Assuming vector artwork guarantees readable text at any size.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.adobe.com/learn/illustrator",
+        "minutes": 20
+      },
+      {
+        "id": "illustrator-layout-2",
+        "title": "Construct vector shapes and a clear type hierarchy",
+        "body": "Continue the same brief: a community repair café needing a crisp poster that can be resized for several noticeboards. In this lesson, turn the plan into working material. Keep the intended audience in mind and make one deliberate choice at a time, so you can explain why your result is useful rather than relying on a template or an automatic feature.\n\nSample inputs: fictional “Fix It Together”, 5 December, 11 am–2 pm, Market Hall, bring one small household item; no electrical repair promise. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Build a simple icon from shapes using the drawing and shape-combination tools available in your version. Group related objects and align them consistently. Add the event title, date, hours, venue and one-item instruction as editable text. Use a small color palette and make the important facts visible without relying on color alone. Compare the design at its intended size and a reduced view. Keep the original editable text while revising; if a delivery workflow needs outlined type, create a separate approved copy rather than destroying your working version.\n\nReview checklist: Objects are grouped, text stays editable and essential facts do not depend only on color. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Outlining the only editable text before correcting a date.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.adobe.com/learn/illustrator",
+        "minutes": 35
+      },
+      {
+        "id": "illustrator-layout-3",
+        "title": "Check resizing and deliver vector artwork",
+        "body": "You are preparing the handoff for a community repair café needing a crisp poster that can be resized for several noticeboards. Review is part of the work: a file that looks right in your own workspace can still confuse the person who receives it. Test the actual output and record what changed after feedback.\n\nSample inputs: fictional “Fix It Together”, 5 December, 11 am–2 pm, Market Hall, bring one small household item; no electrical repair promise. These are fictional practice details; replace them only with material you own or have permission to use.\n\nExercise: Export a review PDF and open it outside Illustrator. Zoom in to inspect shape edges, then view it at the smaller intended size to test the type hierarchy. Ask someone to identify what to bring and where to go. Correct weak spacing or ambiguous service wording. If printing, obtain the printer’s required PDF and bleed settings before final export. Deliver the editable artwork, approved review PDF and a note about fonts or linked assets. Keep the fictional event clearly marked as portfolio practice.\n\nReview checklist: The PDF opens correctly and reduced-size testing still reveals location and instructions. Write down one observation before making a correction, then compare the revised result with the previous version.\n\nCommon mistake: Advertising repairs beyond the fictional café’s approved scope.\n\nSave your evidence: keep this stage of the work so you can explain your choices in the final mini-task. This is original Learning Hub practice, not a vendor course or certificate. The linked official resource provides supporting guidance; software labels and availability may vary by version.",
+        "source_url": "https://www.adobe.com/learn/illustrator",
+        "minutes": 25
+      }
+    ],
+    "tool": "Illustrator",
+    "areas": [
+      "Graphic design",
+      "Event marketing",
+      "Content creation"
+    ],
+    "outcomes": [
+      "flyer-layout"
+    ],
+    "provider": "Learning Hub original AI-assisted practice · official references · not vendor certification"
+  }
+]

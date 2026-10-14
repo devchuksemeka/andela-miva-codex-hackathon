@@ -1,0 +1,426 @@
+[
+  {
+    "id": "1",
+    "title": "Content video editor",
+    "type": "freelance",
+    "description": "Turn a small business’s raw clips into a clear short video. For example, show a food seller’s preparation, product and pickup offer without exposing customer information. Explore the linked directory for actual briefs. This is an illustrative work example, not a verified vacancy or promise of income.",
+    "location": "Remote · eligibility varies",
+    "required": [
+      "clip-sequencing"
+    ],
+    "apply_url": "https://www.upwork.com/freelance-jobs/video-editing/",
+    "source_url": "https://www.upwork.com/freelance-jobs/video-editing/",
+    "last_verified": null,
+    "income_note": "Varies by project",
+    "kind": "directory",
+    "requirements": [
+      {
+        "id": "clip-sequencing",
+        "label": "Sequence and trim video clips",
+        "anyOf": [
+          "clip-sequencing"
+        ]
+      }
+    ],
+    "mapping_note": "Illustrative skill requirements for this directory pathway, not requirements verified against an individual vacancy.",
+    "work_summary": "Turn a small business’s raw clips into a clear short video. For example, show a food seller’s preparation, product and pickup offer without exposing customer information.",
+    "deliverables": [
+      "A review edit with a clear opening, useful sequence and ending",
+      "An agreed export format and editable project or revision arrangement",
+      "A short change log explaining feedback addressed"
+    ],
+    "first_step": "Prepare one permission-cleared product edit, then inspect a real brief in the directory for format, deadlines, revision limits and tool requirements."
+  },
+  {
+    "id": "2",
+    "title": "Facebook content assistant",
+    "type": "freelance",
+    "description": "Prepare approved Page posts and explain their performance to a business owner. A laundry service might need a collection-day video and a weekly summary of enquiries and post results. Explore the linked directory for actual briefs. This is an illustrative work example, not a verified vacancy or promise of income.",
+    "location": "Remote · eligibility varies",
+    "required": [
+      "facebook-publishing",
+      "facebook-analytics"
+    ],
+    "apply_url": "https://www.upwork.com/freelance-jobs/social-media-management/",
+    "source_url": "https://www.upwork.com/freelance-jobs/social-media-management/",
+    "last_verified": null,
+    "income_note": "Varies by project",
+    "kind": "directory",
+    "requirements": [
+      {
+        "id": "facebook-publishing",
+        "label": "Publish content on a Facebook Page",
+        "anyOf": [
+          "facebook-publishing"
+        ]
+      },
+      {
+        "id": "facebook-analytics",
+        "label": "Interpret Facebook Page analytics",
+        "anyOf": [
+          "facebook-analytics"
+        ]
+      }
+    ],
+    "mapping_note": "Illustrative skill requirements for this directory pathway, not requirements verified against an individual vacancy.",
+    "work_summary": "Prepare approved Page posts and explain their performance to a business owner. A laundry service might need a collection-day video and a weekly summary of enquiries and post results.",
+    "deliverables": [
+      "A Page-ready video caption and approval preview",
+      "A small content schedule with a named approver",
+      "A clearly labelled performance summary with metric definitions"
+    ],
+    "first_step": "Build a fictional Page-post package and analytics comparison; check a real listing for Page access, response duties and reporting expectations."
+  },
+  {
+    "id": "3",
+    "title": "Event flyer designer",
+    "type": "freelance",
+    "description": "Lay out a readable event announcement with confirmed date, time, venue and action. A community book swap needs phone-friendly artwork and a matching text description. Explore the linked directory for actual briefs. This is an illustrative work example, not a verified vacancy or promise of income.",
+    "location": "Remote · eligibility varies",
+    "required": [
+      "flyer-layout"
+    ],
+    "apply_url": "https://www.upwork.com/freelance-jobs/graphic-design/",
+    "source_url": "https://www.upwork.com/freelance-jobs/graphic-design/",
+    "last_verified": null,
+    "income_note": "Varies by project",
+    "kind": "directory",
+    "requirements": [
+      {
+        "id": "flyer-layout",
+        "label": "Lay out a readable flyer",
+        "anyOf": [
+          "flyer-layout"
+        ]
+      }
+    ],
+    "mapping_note": "Illustrative skill requirements for this directory pathway, not requirements verified against an individual vacancy.",
+    "work_summary": "Lay out a readable event announcement with confirmed date, time, venue and action. A community book swap needs phone-friendly artwork and a matching text description.",
+    "deliverables": [
+      "An approved flyer with complete event facts",
+      "Editable artwork and the requested export sizes",
+      "A text-only version and image-rights note"
+    ],
+    "first_step": "Create a sample flyer, then read a real design brief and confirm dimensions, source-file expectations, permitted assets and revision scope."
+  },
+  {
+    "id": "4",
+    "title": "Event coordination assistant",
+    "type": "freelance",
+    "description": "Turn an organizer’s programme into an operational run sheet. A skills showcase may need stage timings, named volunteers, equipment cues and a contingency for a late speaker. Explore the linked directory for actual briefs. This is an illustrative work example, not a verified vacancy or promise of income.",
+    "location": "Remote · eligibility varies",
+    "required": [
+      "event-scheduling"
+    ],
+    "apply_url": "https://www.upwork.com/freelance-jobs/event-management/",
+    "source_url": "https://www.upwork.com/freelance-jobs/event-management/",
+    "last_verified": null,
+    "income_note": "Varies by project",
+    "kind": "directory",
+    "requirements": [
+      {
+        "id": "event-scheduling",
+        "label": "Build an event run sheet",
+        "anyOf": [
+          "event-scheduling"
+        ]
+      }
+    ],
+    "mapping_note": "Illustrative skill requirements for this directory pathway, not requirements verified against an individual vacancy.",
+    "work_summary": "Turn an organizer’s programme into an operational run sheet. A skills showcase may need stage timings, named volunteers, equipment cues and a contingency for a late speaker.",
+    "deliverables": [
+      "A timed schedule with responsible roles and dependencies",
+      "A delay or cancellation contingency approved by the organizer",
+      "A phone-readable handoff and version record"
+    ],
+    "first_step": "Prepare a two-hour practice run sheet and ask someone to follow it; check real briefs for venue duties, availability and safety responsibilities."
+  },
+  {
+    "id": "5",
+    "title": "Junior frontend developer",
+    "type": "freelance",
+    "description": "Build a clear, responsive informational page using semantic HTML and CSS. A shoe-repair shop could need services, hours and an enquiry section that remains readable on phones. Explore the linked directory for actual briefs. This is an illustrative work example, not a verified vacancy or promise of income.",
+    "location": "Remote · eligibility varies",
+    "required": [
+      "semantic-html",
+      "responsive-layout"
+    ],
+    "apply_url": "https://www.upwork.com/freelance-jobs/web-design/",
+    "source_url": "https://www.upwork.com/freelance-jobs/web-design/",
+    "last_verified": null,
+    "income_note": "Varies by project",
+    "kind": "directory",
+    "requirements": [
+      {
+        "id": "semantic-html",
+        "label": "Structure semantic HTML",
+        "anyOf": [
+          "semantic-html"
+        ]
+      },
+      {
+        "id": "responsive-layout",
+        "label": "Build responsive CSS layouts",
+        "anyOf": [
+          "responsive-layout"
+        ]
+      }
+    ],
+    "mapping_note": "Illustrative skill requirements for this directory pathway, not requirements verified against an individual vacancy.",
+    "work_summary": "Build a clear, responsive informational page using semantic HTML and CSS. A shoe-repair shop could need services, hours and an enquiry section that remains readable on phones.",
+    "deliverables": [
+      "Semantic page source with logical headings and labels",
+      "Responsive styles tested at narrow and wide widths",
+      "A test note covering keyboard use, zoom and known limitations"
+    ],
+    "first_step": "Publish source or screenshots of a fictional page in your portfolio; read actual listings for framework, accessibility, hosting and experience requirements."
+  },
+  {
+    "id": "6",
+    "title": "Captioned video editor",
+    "type": "freelance",
+    "description": "Edit a short spoken video and produce accurate, readable captions. A reading club might need an invitation that communicates time and location even with the sound muted. Explore the linked directory for actual briefs. This is an illustrative work example, not a verified vacancy or promise of income.",
+    "location": "Remote · eligibility varies",
+    "required": [
+      "clip-sequencing",
+      "video-captioning"
+    ],
+    "apply_url": "https://www.upwork.com/freelance-jobs/social-video-marketing/",
+    "source_url": "https://www.upwork.com/freelance-jobs/social-video-marketing/",
+    "last_verified": null,
+    "income_note": "Varies by project",
+    "kind": "directory",
+    "requirements": [
+      {
+        "id": "clip-sequencing",
+        "label": "Sequence and trim video clips",
+        "anyOf": [
+          "clip-sequencing"
+        ]
+      },
+      {
+        "id": "video-captioning",
+        "label": "Caption spoken video",
+        "anyOf": [
+          "video-captioning"
+        ]
+      }
+    ],
+    "mapping_note": "Illustrative skill requirements for this directory pathway, not requirements verified against an individual vacancy.",
+    "work_summary": "Edit a short spoken video and produce accurate, readable captions. A reading club might need an invitation that communicates time and location even with the sound muted.",
+    "deliverables": [
+      "A clean short edit with corrected captions",
+      "A reviewed transcript or subtitle file when the brief requires one",
+      "A muted-viewing check and documented corrections"
+    ],
+    "first_step": "Caption a consent-cleared sample and check a real brief for language, subtitle format, timing standards and required software."
+  },
+  {
+    "id": "7",
+    "title": "Presentation design assistant",
+    "type": "freelance",
+    "description": "Arrange supplied ideas into readable visual slides or presentation graphics. A community group might need a welcome slide, schedule and closing instruction using a consistent hierarchy. Explore the linked directory for actual briefs. This is an illustrative work example, not a verified vacancy or promise of income.",
+    "location": "Remote · eligibility varies",
+    "required": [
+      "flyer-layout"
+    ],
+    "apply_url": "https://www.upwork.com/freelance-jobs/presentation-design/",
+    "source_url": "https://www.upwork.com/freelance-jobs/presentation-design/",
+    "last_verified": null,
+    "income_note": "Varies by project",
+    "kind": "directory",
+    "requirements": [
+      {
+        "id": "flyer-layout",
+        "label": "Lay out a readable flyer",
+        "anyOf": [
+          "flyer-layout"
+        ]
+      }
+    ],
+    "mapping_note": "Illustrative skill requirements for this directory pathway, not requirements verified against an individual vacancy.",
+    "work_summary": "Arrange supplied ideas into readable visual slides or presentation graphics. A community group might need a welcome slide, schedule and closing instruction using a consistent hierarchy.",
+    "deliverables": [
+      "A short slide sample with clear type and visual hierarchy",
+      "Editable assets and the agreed presentation or image exports",
+      "A consistency and readability review"
+    ],
+    "first_step": "Make a three-slide sample from fictional event facts. Flyer layout contributes useful design ability; verify additional slide-tool, storytelling and accessibility requirements in each real brief."
+  },
+  {
+    "id": "8",
+    "title": "Social video content assistant",
+    "type": "freelance",
+    "description": "Create a short business video and prepare an approved Facebook Page post around it. A craft seller might need a making-process edit with a caption that accurately explains how to enquire. Explore the linked directory for actual briefs. This is an illustrative work example, not a verified vacancy or promise of income.",
+    "location": "Remote · eligibility varies",
+    "required": [
+      "clip-sequencing",
+      "facebook-publishing"
+    ],
+    "apply_url": "https://www.upwork.com/freelance-jobs/content-creation/",
+    "source_url": "https://www.upwork.com/freelance-jobs/content-creation/",
+    "last_verified": null,
+    "income_note": "Varies by project",
+    "kind": "directory",
+    "requirements": [
+      {
+        "id": "clip-sequencing",
+        "label": "Sequence and trim video clips",
+        "anyOf": [
+          "clip-sequencing"
+        ]
+      },
+      {
+        "id": "facebook-publishing",
+        "label": "Publish content on a Facebook Page",
+        "anyOf": [
+          "facebook-publishing"
+        ]
+      }
+    ],
+    "mapping_note": "Illustrative skill requirements for this directory pathway, not requirements verified against an individual vacancy.",
+    "work_summary": "Create a short business video and prepare an approved Facebook Page post around it. A craft seller might need a making-process edit with a caption that accurately explains how to enquire.",
+    "deliverables": [
+      "A permission-cleared video sequence",
+      "A Page-ready caption and approval preview",
+      "A file handoff with publishing instructions and rights notes"
+    ],
+    "first_step": "Combine a sample edit and draft post, then confirm a live brief’s platform access, content ownership and whether publishing is part of the assignment."
+  },
+  {
+    "id": "9",
+    "title": "Landing page developer",
+    "type": "freelance",
+    "description": "Combine semantic structure, responsive layout and visual hierarchy into a focused page. An event organizer might need a page explaining an activity, location and a clear registration action. Explore the linked directory for actual briefs. This is an illustrative work example, not a verified vacancy or promise of income.",
+    "location": "Remote · eligibility varies",
+    "required": [
+      "semantic-html",
+      "responsive-layout",
+      "flyer-layout"
+    ],
+    "apply_url": "https://www.upwork.com/freelance-jobs/landing-pages/",
+    "source_url": "https://www.upwork.com/freelance-jobs/landing-pages/",
+    "last_verified": null,
+    "income_note": "Varies by project",
+    "kind": "directory",
+    "requirements": [
+      {
+        "id": "semantic-html",
+        "label": "Structure semantic HTML",
+        "anyOf": [
+          "semantic-html"
+        ]
+      },
+      {
+        "id": "responsive-layout",
+        "label": "Build responsive CSS layouts",
+        "anyOf": [
+          "responsive-layout"
+        ]
+      },
+      {
+        "id": "flyer-layout",
+        "label": "Lay out a readable flyer",
+        "anyOf": [
+          "flyer-layout"
+        ]
+      }
+    ],
+    "mapping_note": "Illustrative skill requirements for this directory pathway, not requirements verified against an individual vacancy.",
+    "work_summary": "Combine semantic structure, responsive layout and visual hierarchy into a focused page. An event organizer might need a page explaining an activity, location and a clear registration action.",
+    "deliverables": [
+      "A responsive landing page with accessible content structure",
+      "A coherent visual hierarchy and optimized permitted images",
+      "A test record and an honest note about whether forms actually submit"
+    ],
+    "first_step": "Build a fictional event page; inspect real briefs for framework, forms, deployment, analytics and privacy requirements beyond this illustrative skill combination."
+  },
+  {
+    "id": "10",
+    "title": "Event communications assistant",
+    "type": "freelance",
+    "description": "Keep an event’s programme and public Facebook announcements consistent. A workshop organizer may need a run sheet plus posts explaining arrival time or an approved schedule change. Explore the linked directory for actual briefs. This is an illustrative work example, not a verified vacancy or promise of income.",
+    "location": "Remote · eligibility varies",
+    "required": [
+      "event-scheduling",
+      "facebook-publishing"
+    ],
+    "apply_url": "https://www.upwork.com/freelance-jobs/event-marketing/",
+    "source_url": "https://www.upwork.com/freelance-jobs/event-marketing/",
+    "last_verified": null,
+    "income_note": "Varies by project",
+    "kind": "directory",
+    "requirements": [
+      {
+        "id": "event-scheduling",
+        "label": "Build an event run sheet",
+        "anyOf": [
+          "event-scheduling"
+        ]
+      },
+      {
+        "id": "facebook-publishing",
+        "label": "Publish content on a Facebook Page",
+        "anyOf": [
+          "facebook-publishing"
+        ]
+      }
+    ],
+    "mapping_note": "Illustrative skill requirements for this directory pathway, not requirements verified against an individual vacancy.",
+    "work_summary": "Keep an event’s programme and public Facebook announcements consistent. A workshop organizer may need a run sheet plus posts explaining arrival time or an approved schedule change.",
+    "deliverables": [
+      "An operational event schedule with owners",
+      "Approved announcement and reminder drafts",
+      "A change-communication checklist naming the approver"
+    ],
+    "first_step": "Prepare a sample schedule and two matching post drafts; check actual roles for on-site attendance, Page permissions and responsibility for urgent updates."
+  },
+  {
+    "id": "11",
+    "title": "Coding tutor",
+    "type": "freelance",
+    "description": "Help a learner understand code and develop a problem-solving strategy. A small-group tutor might demonstrate a cart-total function, guide a type-related bug and check understanding with a new input. Explore the linked directory for actual briefs. This is an illustrative work example, not a verified vacancy or promise of income.",
+    "location": "Remote · eligibility varies",
+    "required": [
+      "programming-demonstration",
+      "audience-explanation",
+      "learner-guidance"
+    ],
+    "requirements": [
+      {
+        "id": "programming-demonstration",
+        "label": "Demonstrate and explain working code",
+        "anyOf": [
+          "programming-demonstration"
+        ]
+      },
+      {
+        "id": "audience-explanation",
+        "label": "Explain technical concepts for an audience",
+        "anyOf": [
+          "audience-explanation"
+        ]
+      },
+      {
+        "id": "learner-guidance",
+        "label": "Guide a learner with feedback",
+        "anyOf": [
+          "learner-guidance"
+        ]
+      }
+    ],
+    "apply_url": "https://www.upwork.com/freelance-jobs/tutoring/",
+    "source_url": "https://www.upwork.com/freelance-jobs/tutoring/",
+    "last_verified": null,
+    "income_note": "Varies by project",
+    "kind": "directory",
+    "mapping_note": "Illustrative skills, not a verified vacancy.",
+    "work_summary": "Help a learner understand code and develop a problem-solving strategy. A small-group tutor might demonstrate a cart-total function, guide a type-related bug and check understanding with a new input.",
+    "deliverables": [
+      "A clear worked programming example with tests",
+      "A session plan using questions, hints and a transfer exercise",
+      "A short explanation or learner handout and reflection"
+    ],
+    "first_step": "Create a role-play tutoring sample or use existing mentoring evidence honestly. Check live briefs for subject depth, teaching experience, safeguarding or qualifications before applying."
+  }
+]
