@@ -16,7 +16,7 @@ Lesson/course completion does not automatically demonstrate a skill. Practical e
 
 ## Limits
 
-Course sources need review; opportunity data contains directories, not verified individual vacancies. Full Pidgin translation, audio, projection demo and peer verification remain incomplete. Production offline behaviour and broad accessibility/device testing still need validation.
+Course sources need review; opportunity data contains directories, not verified individual vacancies. Audio, projection demo and peer verification remain incomplete. English/Pidgin interface and catalogue translations are bundled; translation review remains ongoing. Production offline behaviour and broad accessibility/device testing still need validation.
 
 ## Engineering records
 
@@ -50,7 +50,7 @@ Progress shows personal learning activity, demonstrated-skill and ready-work cou
 
 ## Language access
 
-Header and Settings share English/Nigerian Pidgin controls and the persisted hub-lang preference; the sidebar no longer has language switching. Header controls remain available on narrow mobile layouts. Pidgin is a preview for selected interface labels, while course content remains mostly English.
+Header and Settings share English/Nigerian Pidgin controls and the persisted hub-lang preference; the sidebar no longer has language switching. Header controls remain available on narrow mobile layouts. The language setting applies throughout the visible interface and bundled course, skill and work text. Linked websites and literal code or quoted examples may remain in their original language.
 
 ## Portfolio, experience and résumé
 
@@ -65,3 +65,7 @@ All feature-specific context—including research, implementation plans, fronten
 ## Invention-sprint profile presentation (FEAT-029 supersedes FEAT-026 UI)
 
 Profile is now a future-capacity preview, with Personal details, Projects, Experience and Résumés tabs. It does not expose live profile editing or résumé generation. Existing device profile data is preserved read-only and distinguished from future concepts. Build-my-résumé opens a reusable accessible preview modal describing planned AI-heavy generation from learner-approved courses, demonstrated skills, projects/experience, job requirements and additional context, then review and future saved versions. Résumés previews a planned archive for reopening/reusing past versions without fabricated history. /resume and opportunity résumé actions use the same preview framing. Earlier domain/local drafting/provider-selection code remains developmental; the planned full generation/library is not claimed as implemented.
+
+## Learner language and copy (FEAT-030)
+
+Use I18nProvider/useI18n for shared messages and catalogue overlays for course lessons, skills and work descriptions. All visible pages, profile tabs, menus and modals follow the saved language preference. Never translate learner-entered names or work records. Keep canonical IDs/categories/tool constraints/source links/code examples unchanged. Search accepts both English and selected-language metadata. Learner copy must be short and concrete: say Coming soon or See how it will work; do not surface internal planning language such as invention sprint preview, future capacity, implementation status or development instructions. Planning terminology belongs in engineering records, not product pages. README describes current learning features only and links the live Vercel site; future résumé/profile capacity is intentionally omitted. Package author is Miracle Chukwuemeka Okafor, devchuksemeka@gmail.com.

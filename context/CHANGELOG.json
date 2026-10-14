@@ -349,8 +349,11 @@
     "title": "Translate learner pages and simplify product copy",
     "area": "both",
     "owner": "coordinator",
-    "status": "in_progress",
+    "status": "completed",
     "started_at": "2026-10-14T13:56:41.168Z",
-    "task": "context/features/active/FEAT-030-app-language-and-copy.md"
+    "task": "context/features/archive/FEAT-030-app-language-and-copy.md",
+    "completed_at": "2026-10-14T19:34:32.162Z",
+    "summary": "Completed shared English/Pidgin interface and full catalogue translations, simplified learner copy, added author metadata and deployed URL, and restricted README to current learning.",
+    "validation": "73 tests and production build pass; persisted language UI/catalogue/tab/modal checks and README author/link/scope validation passed."
   }
 ]

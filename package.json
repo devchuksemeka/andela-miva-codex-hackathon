@@ -22,5 +22,9 @@
   },
   "overrides": {
     "postcss": "^8.5.23"
+  },
+  "author": {
+    "name": "Miracle Chukwuemeka Okafor",
+    "email": "devchuksemeka@gmail.com"
   }
 }

@@ -291,7 +291,10 @@ Generated from CHANGELOG.json. Started work appears here immediately; completed 
 
 ## FEAT-030-app-language-and-copy — Translate learner pages and simplify product copy
 
-- Status: **in_progress**
+- Status: **completed**
 - Owner: coordinator; area: both
 - Started: 2026-10-14T13:56:41.168Z
-- Task: [record](features/active/FEAT-030-app-language-and-copy.md)
+- Completed: 2026-10-14T19:34:32.162Z
+- Task: [record](features/archive/FEAT-030-app-language-and-copy.md)
+- Result: Completed shared English/Pidgin interface and full catalogue translations, simplified learner copy, added author metadata and deployed URL, and restricted README to current learning.
+- Validation: 73 tests and production build pass; persisted language UI/catalogue/tab/modal checks and README author/link/scope validation passed.

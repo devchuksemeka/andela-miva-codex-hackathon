@@ -58,3 +58,5 @@ Update this index for materially new or changed features; link archived task rec
 | Avatar profile and Settings menu | Completed | [FEAT-028](archive/FEAT-028-avatar-menu.md) |
 
 | Profile future capacity and AI résumé glimpse | Completed; supersedes FEAT-026 visible profile/generation UI | [FEAT-029](archive/FEAT-029-profile-future-preview.md) |
+
+| App-wide language and plain learner copy | Completed; author and current-scope README updated | [FEAT-030](archive/FEAT-030-app-language-and-copy.md) |
